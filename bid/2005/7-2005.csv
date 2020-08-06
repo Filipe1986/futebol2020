@@ -1,0 +1,708 @@
+Jogador; Inscricao; Contrato; N; Inicio; Nascimento; dt_inscricao; clube
+Adson Alves da Silva;  161223;  Contrato Definitivo ;  ;  31/07/2005;  24/11/1982;  31/07/2005 00:00:00; Juazeiro / BA
+Deyvison Denilson de Sousa Bessas;  187292;  Vinculo Encerrado ;  485320;  ;  18/10/1988;  29/07/2005 00:00:00; Nacional / MG
+Marcos Vinicius Lira Rago;  166761;  Contrato Definitivo ;  00508147;  10/07/2005;  02/03/1985;  29/07/2005 00:00:00; Operário Futebol Clube / MS
+Sinezio Correia Goncalves;  164920;  Contrato Definitivo ;  00509130;  14/07/2005;  04/06/1977;  29/07/2005 00:00:00; Asa / AL
+Joao Paulo de Araujo Cardoso;  153740;  Contrato Definitivo ;  00502230;  04/07/2005;  04/09/1982;  29/07/2005 00:00:00; Nacional / PB
+Marcos Paulo de Melo Giovaes;  152335;  Contrato Definitivo ;  00508165;  10/07/2005;  14/05/1981;  29/07/2005 00:00:00; Operário Futebol Clube / MS
+Waldino da Rocha E Silva;  150518;  Contrato Definitivo ;  00514349;  01/06/2005;  27/03/1980;  29/07/2005 00:00:00; Futuro Bem Proximo Atletico Cl / RJ
+Daniel Sena Ribeiro;  149580;  Contrato Definitivo ;  00505283;  01/07/2005;  03/04/1980;  29/07/2005 00:00:00; Madureira / RJ
+Bruno Henrique de Souza;  143646;  Contrato Definitivo ;  00454436;  04/07/2005;  15/06/1980;  29/07/2005 00:00:00; Nacional / PB
+Sergio Josue Braz;  138980;  Contrato Definitivo ;  00502233;  04/07/2005;  03/12/1979;  29/07/2005 00:00:00; Nacional / PB
+Carlos Eduardo de Gouveia;  111098;  Contrato Definitivo ;  00480511;  01/07/2005;  27/03/1971;  29/07/2005 00:00:00; Portuguesa Santista / SP
+Moises Izidoro;  103309;  Contrato Definitivo ;  00480134;  15/07/2005;  15/05/1968;  29/07/2005 00:00:00; Ji-paraná / RO
+Marcio dos Santos Sanches;  167446;  Contrato Definitivo ;  00508131;  20/07/2005;  29/03/1986;  29/07/2005 00:00:00; Cene / MS
+Bruno Octavio Jovanelli;  155523;  Contrato Definitivo ;  00478005;  25/07/2005;  02/08/1985;  29/07/2005 00:00:00; Corinthians / SP
+Willian Arthur Conceicao dos Santos;  154555;  Contrato Definitivo ;  00509800;  21/07/2005;  27/07/1982;  29/07/2005 00:00:00; Cabofriense / RJ
+Lenilson Batista de Jesus;  142996;  Rescisão ;  510458;  ;  01/05/1981;  28/07/2005 00:00:00; Tupi / MG
+Valdenildo Meneses Soares;  130363;  Contrato Definitivo ;  477122;  28/07/2005;  12/06/1978;  28/07/2005 00:00:00; Cascavel Cr / PR
+Jose Carlos Ferreira Filho;  148961;  Contrato Emprestimo ;  ;  28/07/2005;  24/04/1983;  28/07/2005 00:00:00; Crb / AL
+Thiago Correia Brito;  175265;  Contrato Definitivo ;  00515068;  01/07/2005;  17/01/1986;  28/07/2005 00:00:00; Americano / RJ
+Alencar Ventura Filho;  175416;  Contrato Definitivo ;  00480132;  18/07/2005;  18/09/1985;  28/07/2005 00:00:00; Ji-paraná / RO
+Julio Cesar Caceres Lopez;  175412;  Contrato Definitivo ;  00511176;  25/07/2005;  05/10/1979;  28/07/2005 00:00:00; Atlético / MG
+Mauricio de Souza Vaz Fernandes;  175401;  Contrato Definitivo ;  00508160;  15/07/2005;  13/08/1984;  28/07/2005 00:00:00; Operário Futebol Clube / MS
+Marcelo Souta da Paixao;  175014;  Contrato Definitivo ;  00507910;  15/06/2005;  10/05/1982;  28/07/2005 00:00:00; Sul America Futebol Clube / ES
+Carlos Augusto dos Santos Mota;  172948;  Contrato Definitivo ;  00485132;  19/07/2005;  05/01/1982;  28/07/2005 00:00:00; Icasa / CE
+Rene de Oliveira Faustino;  170886;  Contrato Definitivo ;  00485081;  25/07/2005;  29/10/1985;  28/07/2005 00:00:00; Guarani / SP
+Genilson Maciel de Sousa;  163868;  Contrato Definitivo ;  00518370;  21/07/2005;  26/04/1982;  28/07/2005 00:00:00; Boa / MG
+Vitor Hugo Silva Zivieri;  155993;  Contrato Definitivo ;  00480711;  12/07/2005;  14/04/1983;  28/07/2005 00:00:00; Palmeiras / SP
+Andre Soares Pereira;  154904;  Contrato Definitivo ;  00507216;  01/07/2005;  15/01/1981;  28/07/2005 00:00:00; Paranoa Esporte Clube / DF
+Joserlan da Conceicao Batista;  149429;  Contrato Definitivo ;  00490853;  12/07/2005;  19/03/1982;  28/07/2005 00:00:00; Rio Branco / SP
+Robson Carneiro Lino;  148884;  Contrato Definitivo ;  00490852;  04/07/2005;  30/10/1978;  28/07/2005 00:00:00; Rio Branco / SP
+Gelson de Souza Santos;  126939;  Contrato Definitivo ;  00480131;  15/07/2005;  10/03/1975;  28/07/2005 00:00:00; Ji-paraná / RO
+Marcio Griggio;  111817;  Contrato Definitivo ;  00491439;  27/07/2005;  14/06/1971;  28/07/2005 00:00:00; Nacional / AM
+Thiago Correia Brito;  175265;  Vinculo Encerrado ;  20391;  ;  17/01/1986;  28/07/2005 00:00:00; Americano / RJ
+Maycon Carvalho Inez;  175439;  Contrato Definitivo ;  00515051;  05/07/2005;  21/07/1986;  28/07/2005 00:00:00; Madureira / RJ
+Alex Wilton Lima de Oliveira;  175218;  Contrato Definitivo ;  00463913;  22/06/2005;  10/06/1987;  28/07/2005 00:00:00; Ferroviário / CE
+Jonathan Medeiros de Sousa;  175215;  Contrato Definitivo ;  00463909;  01/06/2005;  18/09/1987;  28/07/2005 00:00:00; Ferroviário / CE
+Carlos Renato Linhares de Araujo;  173847;  Contrato Definitivo ;  00514915;  01/07/2005;  21/07/1986;  28/07/2005 00:00:00; Americano / RJ
+Christiano Luiz Rodrigues;  146554;  Contrato Definitivo ;  00510029;  21/07/2005;  04/05/1981;  28/07/2005 00:00:00; Botafogo / RJ
+Laerte Rodrigues de Azevedo Junior;  143037;  Contrato Emprestimo ;  00514694;  27/07/2005;  08/01/1981;  27/07/2005 00:00:00; Americano / RJ
+Claudio Batista dos Santos;  99605;  Contrato Definitivo ;  00518352;  22/07/2005;  19/04/1967;  27/07/2005 00:00:00; Boa / MG
+Jesus Wolff Hirle;  175407;  Contrato Definitivo ;  00518523;  20/07/2005;  23/10/1984;  27/07/2005 00:00:00; América To / MG
+Rodrigo Almeida;  175400;  Contrato Definitivo ;  00508161;  15/07/2005;  30/06/1986;  27/07/2005 00:00:00; Operário Futebol Clube / MS
+Rogerio Luis Spindler;  175399;  Contrato Definitivo ;  00468693;  15/07/2005;  20/09/1981;  27/07/2005 00:00:00; Operário Futebol Clube / MS
+Wanderson Silva Jacobina;  175396;  Contrato Definitivo ;  00463378;  19/07/2005;  08/01/1987;  27/07/2005 00:00:00; Icasa / CE
+Tiago Viana Nunes;  175394;  Contrato Definitivo ;  00485130;  19/07/2005;  11/11/1986;  27/07/2005 00:00:00; Icasa / CE
+Cesar Andres Emmanuel Bordaberry Galeano;  175373;  Contrato Definitivo ;  00518734;  01/07/2005;  25/02/1984;  27/07/2005 00:00:00; América / MG
+Elias Cordeiro;  175006;  Contrato encerrado ;  00483019;  29/03/2005;  16/11/1982;  27/07/2005 00:00:00; Associacao Atletica Portuguesa / MS
+Luis Fernando de Paula Rosa;  175005;  Contrato encerrado ;  00508039;  14/04/2005;  18/10/1982;  27/07/2005 00:00:00; Associacao Atletica Portuguesa / MS
+Allan Sidney de Castro;  175004;  Contrato encerrado ;  00483018;  29/03/2005;  06/11/1983;  27/07/2005 00:00:00; Associacao Atletica Portuguesa / MS
+Luciano Fernandes Azevedo;  175003;  Contrato Definitivo ;  00477433;  19/04/2005;  16/03/1988;  27/07/2005 00:00:00; Associacao Atletica Portuguesa / MS
+Eduardo Alves dos Santos;  174989;  Contrato Definitivo ;  00475171;  15/05/2005;  30/12/1984;  27/07/2005 00:00:00; Ec Campo Grande / MS
+Ygho Jackson Muniz de Assis;  174987;  Contrato Definitivo ;  00447639;  24/05/2005;  16/04/1986;  27/07/2005 00:00:00; Clube de Esportes Uniao / MS
+Eli Rogerio Emidio da Silva;  173235;  Contrato encerrado ;  00502512;  28/03/2005;  01/09/1983;  27/07/2005 00:00:00; Associacao Garanhuense de Atle / PE
+Jaraciguara Azevedo Pereira;  171273;  Contrato Definitivo ;  00417055;  29/06/2005;  26/06/1979;  27/07/2005 00:00:00; São Jose / AP
+Victor Hugo Marques Brandao;  170983;  Contrato Definitivo ;  00514323;  06/06/2005;  10/03/1982;  27/07/2005 00:00:00; Campo Grande / RJ
+Cristiano Luis Climaco Pereira;  170445;  Contrato Definitivo ;  00514328;  06/06/2005;  13/12/1983;  27/07/2005 00:00:00; Campo Grande / RJ
+Enio Bardasson Cruz;  161925;  Contrato Definitivo ;  00514322;  06/06/2005;  29/07/1983;  27/07/2005 00:00:00; Campo Grande / RJ
+Ubirajara Santos de Jesus;  152933;  Contrato Definitivo ;  00504997;  15/07/2005;  31/01/1981;  27/07/2005 00:00:00; Vila Aurora / MT
+Fabio Luiz Rodrigues da Silva;  149754;  Contrato Definitivo ;  00509905;  01/06/2005;  11/04/1984;  27/07/2005 00:00:00; Tigres do Brasil / RJ
+Marcio Domingos Ferrante Guerra;  140401;  Contrato Definitivo ;  00514383;  10/06/2005;  28/02/1981;  27/07/2005 00:00:00; Duque Caxiense Futebol Clube / RJ
+Jonymax Lins da Silva;  139081;  Contrato Definitivo ;  00505225;  01/06/2005;  25/08/1981;  27/07/2005 00:00:00; Tigres do Brasil / RJ
+Silvaldo Miguel de Melo;  130302;  Contrato Definitivo ;  00509125;  14/07/2005;  29/02/1976;  27/07/2005 00:00:00; Asa / AL
+Siller Gomes Carvalho;  175409;  Contrato Definitivo ;  00505303;  01/07/2005;  24/04/1987;  27/07/2005 00:00:00; Americano / RJ
+Vinicius Alberto Nunes;  175408;  Contrato Definitivo ;  00480703;  07/07/2005;  07/01/1988;  27/07/2005 00:00:00; Palmeiras / SP
+Paulo Sergio Lima de Souza;  175395;  Contrato Definitivo ;  00485122;  19/07/2005;  28/08/1986;  27/07/2005 00:00:00; Icasa / CE
+Clailton Nascimento dos Santos;  175393;  Contrato Definitivo ;  00485131;  19/07/2005;  23/03/1986;  27/07/2005 00:00:00; Icasa / CE
+Manoel Almeida Junior;  164955;  Contrato Definitivo ;  00514916;  01/07/2005;  31/12/1985;  27/07/2005 00:00:00; Americano / RJ
+Leonardo Goncalves;  138338;  Contrato Definitivo ;  00514781;  09/07/2005;  05/08/1980;  27/07/2005 00:00:00; Volta Redonda / RJ
+Evandro Ferreira de Moura;  156933;  Contrato Definitivo ;  ;  26/07/2005;  04/05/1981;  26/07/2005 00:00:00; Confronto Temp. / 00
+Willian Borges da Silva;  170085;  Contrato Definitivo ;  ;  26/07/2005;  09/08/1988;  26/07/2005 00:00:00; Corinthians / SP
+Ozeia de Paula Maciel;  146271;  Contrato Definitivo ;  ;  26/07/2005;  02/01/1982;  26/07/2005 00:00:00; Rio Branco / SP
+Thiago Magalhaes Pereira;  155469;  Contrato Emprestimo ;  ;  26/07/2005;  22/01/1984;  26/07/2005 00:00:00; Bahia / BA
+Orlando Francisco Pires Junior;  166124;  Contrato Definitivo ;  ;  26/07/2005;  17/02/1984;  26/07/2005 00:00:00; Cbf - Atleta Sem Clube / 00
+Raimundo Quezado Neto;  136724;  Contrato Definitivo ;  00477802;  11/07/2005;  09/02/1980;  26/07/2005 00:00:00; Tocantinópolis / TO
+Laenio Firmino Frota;  134866;  Contrato Definitivo ;  00485660;  29/06/2005;  07/09/1976;  26/07/2005 00:00:00; Guarany de Sobral / CE
+Jerson da Silva Soares;  175070;  Contrato Definitivo ;  00485266;  06/06/2005;  23/11/1986;  26/07/2005 00:00:00; Uruburetama / CE
+Tiago Jose da Costa Souza;  175064;  Contrato Definitivo ;  00485265;  26/05/2005;  01/04/1985;  26/07/2005 00:00:00; Uruburetama / CE
+Weliton Silva Souza;  175062;  Contrato Definitivo ;  00480447;  02/06/2005;  06/01/1982;  26/07/2005 00:00:00; Lencoense / SP
+Francisco Medeiros Leao;  175059;  Contrato Definitivo ;  00505967;  01/06/2005;  23/02/1977;  26/07/2005 00:00:00; Tuna Luso / PA
+Teity Santos de Aguiar;  175058;  Contrato Definitivo ;  00505970;  03/06/2005;  11/09/1984;  26/07/2005 00:00:00; Tuna Luso / PA
+Leandro de Souza Mota;  175033;  Contrato encerrado ;  00508028;  01/04/2005;  22/06/1987;  26/07/2005 00:00:00; Moreninhas / MS
+Antonio Adeilson Morais de Melo;  175032;  Contrato encerrado ;  00481213;  25/03/2005;  03/07/1979;  26/07/2005 00:00:00; Misto Esporte Clube / MS
+Valdemir Goncalves Leite;  175028;  Contrato encerrado ;  00484474;  22/03/2005;  14/10/1966;  26/07/2005 00:00:00; Futebol Clube do Porto / MS
+Roberto Ferreira de Moraes;  175027;  Contrato encerrado ;  00483027;  04/04/2005;  27/12/1981;  26/07/2005 00:00:00; Ec Campo Grande / MS
+Gleidson Malta do Prado;  174991;  Contrato Definitivo ;  00506699;  25/05/2005;  11/01/1983;  26/07/2005 00:00:00; Sobradinho (df) / DF
+Adriano Aparecido Ramos Neto;  174990;  Contrato Definitivo ;  00506700;  25/05/2005;  01/04/1985;  26/07/2005 00:00:00; Sobradinho (df) / DF
+Ewerton Renato Carvalho;  174760;  Contrato Definitivo ;  00503507;  05/05/2005;  01/04/1987;  26/07/2005 00:00:00; Sport Clube Shallon / RO
+Tiago Augusto da Silva;  173989;  Contrato Definitivo ;  00480729;  11/07/2005;  19/07/1984;  26/07/2005 00:00:00; Aea / SP
+Jose Vitor Martinichen Falcao;  167938;  Contrato Definitivo ;  00507157;  09/05/2005;  19/05/1986;  26/07/2005 00:00:00; Paranoa Esporte Clube / DF
+Alex Sandro de Menezes Guimaraes;  135410;  Contrato Definitivo ;  00477984;  18/07/2005;  10/12/1980;  26/07/2005 00:00:00; União São João de Araras / SP
+Geison Ferreira da Silva;  134436;  Contrato Definitivo ;  00466489;  13/05/2005;  03/03/1978;  26/07/2005 00:00:00; Intercontinental Futebol Clube / PE
+Alex Rodrigues Firmino;  133970;  Contrato Definitivo ;  00484757;  11/07/2005;  17/10/1976;  26/07/2005 00:00:00; Grêmio Barueri / SP
+Rene de Amorim Cabral Neto;  130948;  Contrato Definitivo ;  00466487;  12/05/2005;  09/05/1979;  26/07/2005 00:00:00; Intercontinental Futebol Clube / PE
+Raimundo Quezado Neto;  136724;  Contrato Definitivo ;  00477802;  ;  09/02/1980;  26/07/2005 00:00:00; Tocantinópolis / TO
+Laenio Firmino Frota;  134866;  Vinculo Encerrado ;  18826;  ;  07/09/1976;  26/07/2005 00:00:00; Guarany de Sobral / CE
+Farnesio Pereira Duarte Neto;  174738;  Contrato Definitivo ;  00500633;  01/05/2005;  28/09/1985;  26/07/2005 00:00:00; Cruzeiro Futebol Clube / DF
+Jose Gerardo Moreira Rocha Junior;  133081;  Rescisão ;  463507;  ;  19/11/1977;  25/07/2005 00:00:00; Ríver / PI
+Anderson Moreno dos Santos;  156114;  Contrato Definitivo ;  00517104;  25/07/2005;  28/10/1982;  25/07/2005 00:00:00; São Paulo / RS
+Wallyson Ricardo Maciel Monteiro;  174194;  Contrato Emprestimo ;  528078;  25/07/2005;  17/10/1988;  25/07/2005 00:00:00; Abc / RN
+Fabio Barboza de Lima;  169638;  Contrato Definitivo ;  00480730;  11/07/2005;  07/02/1985;  25/07/2005 00:00:00; Aea / SP
+Gilnei Pereira;  164375;  Contrato Definitivo ;  00491979;  16/06/2005;  30/03/1980;  25/07/2005 00:00:00; Concordia Atletico Clube / SC
+Daniel Felipe Tomazi Moreira Caumo;  295772;  Vinculo Encerrado ;  485486;  ;  08/03/1989;  25/07/2005 00:00:00; Fc Estância Velha / RS
+Romualdo Benedito Misael Junior;  174780;  Contrato Definitivo ;  00491999;  24/05/2005;  10/11/1984;  25/07/2005 00:00:00; Internacional / SC
+Marcos Inezes Melo Nascimento;  174779;  Contrato Definitivo ;  00491827;  01/06/2005;  08/06/1980;  25/07/2005 00:00:00; Internacional / SC
+Fellipe Alves do Vale Souza;  169761;  Contrato Definitivo ;  00485115;  01/07/2005;  24/01/1985;  25/07/2005 00:00:00; Nacional Atletico Clube / SP
+Thiago Lima dos Santos;  166161;  Contrato Definitivo ;  00506022;  01/07/2005;  17/08/1983;  25/07/2005 00:00:00; Abaete Futebol Clube / PA
+Eduardo Henrique Leal;  165199;  Contrato Definitivo ;  00480738;  04/07/2005;  01/08/1981;  25/07/2005 00:00:00; Aea / SP
+Everson Thomaz de Aquino;  164233;  Contrato Definitivo ;  00480736;  04/07/2005;  06/01/1982;  25/07/2005 00:00:00; Aea / SP
+Sandro Victor Silva Santos;  155439;  Contrato Definitivo ;  00504988;  12/07/2005;  22/05/1981;  25/07/2005 00:00:00; Vila Aurora / MT
+Alvaro do Nascimento;  154403;  Contrato Definitivo ;  00484600;  01/07/2005;  16/05/1984;  25/07/2005 00:00:00; Portuguesa / SP
+Ronaldo Rodrigues da Silva;  149037;  Contrato Definitivo ;  00486098;  01/07/2005;  20/06/1983;  25/07/2005 00:00:00; Santos / SP
+Daniel Schcar Lozov;  140791;  Contrato Definitivo ;  00480670;  06/07/2005;  10/10/1980;  25/07/2005 00:00:00; Nacional Atletico Clube / SP
+Anderson Marcelo Bagio;  139345;  Contrato Definitivo ;  00480734;  04/07/2005;  04/11/1980;  25/07/2005 00:00:00; Aea / SP
+Andre Luiz de Almeida;  117036;  Contrato Definitivo ;  00480494;  01/07/2005;  09/01/1973;  25/07/2005 00:00:00; Portuguesa Santista / SP
+Dirlei Adilio Braz;  115405;  Contrato Definitivo ;  00525567;  28/06/2005;  15/05/1972;  25/07/2005 00:00:00; Marcílio Dias / SC
+Fabio Barboza de Lima;  169638;  Vinculo Encerrado ;  20166;  ;  07/02/1985;  25/07/2005 00:00:00; Aea / SP
+Gilnei Pereira;  164375;  Vinculo Encerrado ;  19813;  ;  30/03/1980;  25/07/2005 00:00:00; Concordia Atletico Clube / SC
+Murilo Medeiros de Almeida Silva;  175363;  Contrato Definitivo ;  00485004;  22/06/2005;  27/01/1988;  25/07/2005 00:00:00; Santo André / SP
+Raphael Araujo dos Santos;  174700;  Contrato Definitivo ;  00500707;  21/04/2005;  22/08/1986;  25/07/2005 00:00:00; Cfz / DF
+Sergio Geraldo Oliveira dos Santos;  172405;  Contrato Definitivo ;  00509307;  01/07/2005;  24/01/1986;  25/07/2005 00:00:00; Villa Nova A.c. / MG
+Marcelo Pimenta de Azevedo;  170071;  Contrato Definitivo ;  00518562;  01/07/2005;  05/06/1987;  25/07/2005 00:00:00; Villa Nova A.c. / MG
+Walter Junio da Silva Clementino;  143187;  Contrato Definitivo ;  00509293;  01/07/2005;  12/01/1982;  25/07/2005 00:00:00; Cruzeiro / MG
+Marcelo Ramiro Camacho;  138383;  Contrato Definitivo ;  ;  23/07/2005;  24/03/1980;  23/07/2005 00:00:00; Confronto Temp. / 00
+Lenilson Batista de Jesus;  142996;  Contrato Definitivo ;  518354;  22/07/2005;  01/05/1981;  22/07/2005 00:00:00; Boa / MG
+Ivan de Freitas Ferreira;  152622;  Contrato Definitivo ;  506045;  20/07/2005;  13/05/1980;  22/07/2005 00:00:00; Abaete Futebol Clube / PA
+Murilo Alves Santos;  175366;  Contrato Definitivo ;  00500982;  10/07/2005;  25/02/1980;  22/07/2005 00:00:00; Mineiros / GO
+Fabio Alves Nogueira;  175177;  Contrato Definitivo ;  00487547;  18/06/2005;  13/03/1980;  22/07/2005 00:00:00; Riachuelo Futebol Clube / SE
+Helio Rubens Lima de Oliveira;  175176;  Contrato Definitivo ;  00487555;  22/06/2005;  05/10/1981;  22/07/2005 00:00:00; Riachuelo Futebol Clube / SE
+Isaac Santos Canuto;  175173;  Contrato Definitivo ;  00487551;  13/06/2005;  16/10/1983;  22/07/2005 00:00:00; Riachuelo Futebol Clube / SE
+Joao Messias de Jesus Santana;  175171;  Contrato Definitivo ;  00487602;  13/06/2005;  18/06/1973;  22/07/2005 00:00:00; Riachuelo Futebol Clube / SE
+Nelson de Andrade Nogueira;  174773;  Contrato Definitivo ;  00494770;  02/05/2005;  22/04/1982;  22/07/2005 00:00:00; Associacao Portuguesa Londrinense / PR
+Marcio Andre da Silva Lima;  174771;  Contrato Definitivo ;  00466459;  22/05/2005;  20/03/1981;  22/07/2005 00:00:00; Sete de Setembr / PE
+Mauricio Moreira Protta;  174729;  Contrato Definitivo ;  00500628;  06/05/2005;  03/09/1985;  22/07/2005 00:00:00; Paranoa Esporte Clube / DF
+Alan Carlos Gallo;  174728;  Contrato Definitivo ;  00480234;  05/05/2005;  17/09/1985;  22/07/2005 00:00:00; Paranoa Esporte Clube / DF
+Rafael Oliveira Marques;  174722;  Contrato Definitivo ;  00500649;  01/05/2005;  08/05/1986;  22/07/2005 00:00:00; Cruzeiro Futebol Clube / DF
+Fabio Ramos Soares;  174716;  Contrato encerrado ;  00500685;  25/04/2005;  15/03/1985;  22/07/2005 00:00:00; Gama / DF
+Diego Costa Ferreira Santos;  174712;  Contrato Definitivo ;  00500712;  02/05/2005;  29/08/1987;  22/07/2005 00:00:00; Cfz / DF
+Celio Mariano de Lucena;  174704;  Contrato Definitivo ;  00466497;  24/05/2005;  28/08/1974;  22/07/2005 00:00:00; Cabense / PE
+Wely Kacio Ferreira da Silva;  174696;  Contrato Definitivo ;  00507000;  12/05/2005;  10/05/1986;  22/07/2005 00:00:00; Cfz / DF
+Joelson Correia de Sousa;  174694;  Contrato Definitivo ;  00506996;  02/05/2005;  15/11/1985;  22/07/2005 00:00:00; Cfz / DF
+Guilherme da Silva Coelho;  174693;  Contrato Definitivo ;  00506817;  19/05/2005;  07/12/1986;  22/07/2005 00:00:00; Cfz / DF
+Mauricio Leite da Silva;  174690;  Contrato Definitivo ;  00500620;  05/05/2005;  14/07/1987;  22/07/2005 00:00:00; Paranoa Esporte Clube / DF
+Wesley Batista Chagas;  174689;  Contrato Definitivo ;  00506861;  06/05/2005;  11/08/1987;  22/07/2005 00:00:00; Paranoa Esporte Clube / DF
+Cleuber Barbosa da Rocha;  174688;  Contrato Definitivo ;  00500619;  05/05/2005;  21/03/1986;  22/07/2005 00:00:00; Paranoa Esporte Clube / DF
+Lisandro Bezerra de Menezes;  174687;  Contrato Definitivo ;  00507154;  05/05/2005;  10/01/1987;  22/07/2005 00:00:00; Paranoa Esporte Clube / DF
+Guilherme Arthur de Paiva Combi;  174685;  Contrato Definitivo ;  00507118;  06/05/2005;  30/01/1985;  22/07/2005 00:00:00; Cfz / DF
+Godofredo Cardoso Landuyt;  174682;  Contrato Definitivo ;  00507168;  03/05/2005;  27/09/1986;  22/07/2005 00:00:00; Clube de Regatas Guara / DF
+Helber da Silva Nunes;  174681;  Contrato Definitivo ;  00507163;  03/05/2005;  28/10/1986;  22/07/2005 00:00:00; Clube de Regatas Guara / DF
+Carlos Augusto Gomes de Oliveira;  112047;  Contrato Definitivo ;  00501015;  08/07/2005;  29/01/1972;  22/07/2005 00:00:00; Anapolina / GO
+Alexandre de Souza E Silva;  174774;  Contrato Definitivo ;  00502822;  10/05/2005;  14/01/1987;  22/07/2005 00:00:00; Associacao Portuguesa Londrinense / PR
+Bruno Quirino de Souza Oliveira;  174724;  Contrato Definitivo ;  00500643;  01/05/2005;  01/01/1987;  22/07/2005 00:00:00; Cruzeiro Futebol Clube / DF
+Neylton Alfredo Pereira;  174723;  Contrato Definitivo ;  00500644;  01/05/2005;  13/10/1986;  22/07/2005 00:00:00; Cruzeiro Futebol Clube / DF
+Aurelio Gleria Cavalcante;  174721;  Contrato Definitivo ;  00500650;  01/05/2005;  19/04/1987;  22/07/2005 00:00:00; Cruzeiro Futebol Clube / DF
+Edgar Meneses de Souza;  174720;  Contrato Definitivo ;  00500648;  01/05/2005;  26/05/1987;  22/07/2005 00:00:00; Cruzeiro Futebol Clube / DF
+Luiz Fernando Rodrigues Cursino;  174719;  Contrato Definitivo ;  00500639;  01/05/2005;  30/10/1987;  22/07/2005 00:00:00; Cruzeiro Futebol Clube / DF
+Antonio Carlos Evaristo Lima Filho;  174715;  Contrato Definitivo ;  00500686;  27/04/2005;  10/05/1987;  22/07/2005 00:00:00; Gama / DF
+Renan Pereira Rocha;  174711;  Contrato Definitivo ;  00500705;  27/04/2005;  09/05/1987;  22/07/2005 00:00:00; Cfz / DF
+Jose Domingos Coelho da Silva;  174710;  Contrato Definitivo ;  00506854;  12/05/2005;  05/05/1987;  22/07/2005 00:00:00; Cfz / DF
+Igor Matos Pereira;  174695;  Contrato Definitivo ;  00507121;  06/05/2005;  06/04/1987;  22/07/2005 00:00:00; Cfz / DF
+Juliano Rodrigues Ferreira;  174691;  Contrato Definitivo ;  00506857;  12/05/2005;  30/10/1987;  22/07/2005 00:00:00; Cfz / DF
+Anderson Thiago Santos de Padua;  174683;  Contrato Definitivo ;  00507119;  26/05/2005;  11/09/1986;  22/07/2005 00:00:00; Cfz / DF
+Diego Angelo de Oliveira;  175918;  Contrato Definitivo ;  ;  21/07/2005;  12/02/1986;  21/07/2005 00:00:00; Santos / SP
+Everton Antonio de Lima;  175154;  Contrato Definitivo ;  00480389;  27/06/2005;  12/05/1987;  21/07/2005 00:00:00; São Carlos / SP
+Joao Camillo da Silva Batista;  175169;  Contrato Definitivo ;  00499652;  15/06/2005;  20/06/1984;  21/07/2005 00:00:00; Sete Setembro / AL
+Alex de Matos Pinheiro;  175168;  Contrato Definitivo ;  00499653;  15/06/2005;  19/10/1980;  21/07/2005 00:00:00; Sete Setembro / AL
+Rogerio Cosme Souza do Bonfim;  175157;  Contrato Definitivo ;  00484962;  10/06/2005;  02/05/1988;  21/07/2005 00:00:00; Nacional Atletico Clube / SP
+Denis Oliveira Lacerda de Almeida;  175151;  Contrato Definitivo ;  00500713;  30/06/2005;  20/05/1985;  21/07/2005 00:00:00; Sobradinho (df) / DF
+Francisco Pereira da Silva Neto;  174973;  Contrato Definitivo ;  00463783;  22/04/2005;  08/07/1988;  21/07/2005 00:00:00; Crato Esporte Clube / CE
+Everardo Serafim;  174972;  Contrato Definitivo ;  00463780;  22/04/2005;  01/04/1986;  21/07/2005 00:00:00; Crato Esporte Clube / CE
+Rogerio da Silva;  174971;  Contrato Definitivo ;  00463790;  22/04/2005;  02/01/1984;  21/07/2005 00:00:00; Crato Esporte Clube / CE
+Daniel Sousa dos Santos;  174970;  Contrato Definitivo ;  00463769;  22/04/2005;  22/02/1987;  21/07/2005 00:00:00; Crato Esporte Clube / CE
+Jose Bernardo da Silva;  174967;  Contrato Definitivo ;  00421201;  22/04/2005;  28/07/1978;  21/07/2005 00:00:00; Crato Esporte Clube / CE
+Fabio Correa Machado;  174770;  Contrato Definitivo ;  00506839;  21/05/2005;  20/11/1985;  21/07/2005 00:00:00; Paracatu / DF
+Maxwell Luiz de Almeida;  174768;  Contrato Definitivo ;  00506902;  07/06/2005;  09/10/1986;  21/07/2005 00:00:00; Luziânia / DF
+Ronaldo da Silva Rocha;  174759;  Contrato Definitivo ;  00480146;  25/05/2005;  21/01/1984;  21/07/2005 00:00:00; Cruzeiro E.c. / RO
+Edmilson da Silva Rocha;  174758;  Contrato Definitivo ;  00503501;  25/05/2005;  11/04/1985;  21/07/2005 00:00:00; Cruzeiro E.c. / RO
+Evando Pereira dos Santos;  174737;  Contrato Definitivo ;  00507170;  05/05/2005;  26/04/1985;  21/07/2005 00:00:00; Clube de Regatas Guara / DF
+Danilo Goncalves Tavares;  174733;  Contrato Definitivo ;  00506946;  28/04/2005;  21/06/1985;  21/07/2005 00:00:00; Paracatu / DF
+Rondinelly Cassio Aguiar;  174732;  Contrato Definitivo ;  00506840;  18/05/2005;  24/05/1985;  21/07/2005 00:00:00; Paracatu / DF
+Walikson Jose Alencar do Nascimento;  174679;  Contrato Definitivo ;  00506659;  07/06/2005;  14/04/1985;  21/07/2005 00:00:00; Cfz / DF
+Rosinei Anselmo da Silva;  152587;  Contrato Definitivo ;  00489547;  18/05/2005;  20/06/1980;  21/07/2005 00:00:00; Ji-paraná / RO
+Francisco Chagas Eloia Junior;  128016;  Contrato Definitivo ;  00479728;  01/06/2005;  04/06/1979;  21/07/2005 00:00:00; Imperial Futebol Clube / RJ
+Everton Antonio de Lima;  175154;  Vinculo Encerrado ;  20389;  ;  12/05/1987;  21/07/2005 00:00:00; São Carlos / SP
+Jeferson Volpe;  175156;  Contrato Definitivo ;  00484971;  15/06/2005;  14/07/1988;  21/07/2005 00:00:00; Nacional Atletico Clube / SP
+Erinaldo Silva da Cruz;  175155;  Contrato Definitivo ;  00484857;  01/07/2005;  24/06/1986;  21/07/2005 00:00:00; Barcelona / SP
+Neury da Silva;  174769;  Contrato Definitivo ;  00500642;  01/06/2005;  11/06/1985;  21/07/2005 00:00:00; Cruzeiro Futebol Clube / DF
+Laerte Jose de Alcantara Filho;  174748;  Contrato Definitivo ;  00500637;  01/05/2005;  05/11/1986;  21/07/2005 00:00:00; Cruzeiro Futebol Clube / DF
+Leonardo Carvalho da Silva;  174742;  Contrato Definitivo ;  00500631;  01/05/2005;  13/01/1987;  21/07/2005 00:00:00; Cruzeiro Futebol Clube / DF
+David Rodrigues Maciel;  174741;  Contrato Definitivo ;  00500638;  01/05/2005;  30/11/1987;  21/07/2005 00:00:00; Cruzeiro Futebol Clube / DF
+Everton da Silva Mota;  174736;  Contrato Definitivo ;  00500697;  28/04/2005;  03/01/1988;  21/07/2005 00:00:00; Gama / DF
+Victor Costa Adjuto;  174730;  Contrato Definitivo ;  00506954;  03/05/2005;  02/12/1985;  21/07/2005 00:00:00; Paracatu / DF
+Anderson dos Anjos Araujo;  174680;  Contrato Definitivo ;  00506948;  28/04/2005;  18/05/1985;  21/07/2005 00:00:00; Paracatu / DF
+Wellisse Crecio Ferreira de Oliveira Valerio;  174678;  Contrato Definitivo ;  00506835;  01/06/2005;  07/06/1986;  21/07/2005 00:00:00; Cruzeiro Futebol Clube / DF
+Almiro de Souza Valadares;  175382;  Contrato Definitivo ;  00510446;  05/07/2005;  15/01/1984;  21/07/2005 00:00:00; Social / MG
+Matheus Ferraz Pereira;  175475;  Contrato Definitivo ;  00490894;  20/07/2005;  12/02/1985;  20/07/2005 00:00:00; Santos / SP
+Adriano Bispo dos Santos;  175513;  Contrato Definitivo ;  ;  20/07/2005;  29/05/1987;  20/07/2005 00:00:00; Sao Vicente / SP
+Francisco Wanderson do Carmo Carneiro;  168497;  Contrato Definitivo ;  ;  20/07/2005;  18/02/1986;  20/07/2005 00:00:00; Ferroviário / CE
+Ronis Ribeiro dos Santos;  175332;  Contrato Definitivo ;  00508490;  01/07/2005;  27/02/1987;  20/07/2005 00:00:00; Atlético / PR
+Miguel dos Santos Silva;  175318;  Contrato Definitivo ;  00506970;  10/07/2005;  05/02/1988;  20/07/2005 00:00:00; Brasiliense / DF
+Islony Richarly da Silva;  175313;  Contrato Definitivo ;  00503988;  01/07/2005;  05/11/1988;  20/07/2005 00:00:00; Figueirense / SC
+David Maicon Nunes Silva;  175312;  Contrato Definitivo ;  00506541;  01/07/2005;  05/02/1986;  20/07/2005 00:00:00; América / MG
+Danilo Canuto;  175179;  Contrato Definitivo ;  00486641;  01/07/2005;  25/07/1984;  20/07/2005 00:00:00; Sertãozinho / SP
+Joao Rogerio da Silva;  173796;  Contrato Definitivo ;  00478095;  08/07/2005;  21/01/1984;  20/07/2005 00:00:00; Nova Odessa Atletico Clube / SP
+Pedro Henrique Goncalves Barbosa;  169242;  Contrato Definitivo ;  00478094;  08/07/2005;  13/05/1986;  20/07/2005 00:00:00; Nova Odessa Atletico Clube / SP
+Tiago Aparecido da Silva Monzani;  169134;  Contrato Definitivo ;  00478093;  08/07/2005;  09/09/1985;  20/07/2005 00:00:00; Nova Odessa Atletico Clube / SP
+George Domingues Tramm Junior;  175321;  Contrato Definitivo ;  00518732;  20/06/2005;  13/04/1988;  20/07/2005 00:00:00; América / MG
+Eduardo Antonio Nienow Junior;  175306;  Contrato Definitivo ;  00503738;  18/07/2005;  25/06/1988;  20/07/2005 00:00:00; Juventude / RS
+Wilker Vicente de Morais Silva;  175305;  Contrato Definitivo ;  00491347;  01/07/2005;  11/03/1986;  20/07/2005 00:00:00; Nacional / AM
+Deivide Miguel;  163292;  Contrato Definitivo ;  00451159;  01/07/2005;  14/07/1986;  20/07/2005 00:00:00; Juventude / RS
+Eder Luciano;  151417;  Contrato Definitivo ;  510919;  19/07/2005;  31/05/1982;  19/07/2005 00:00:00; Estrela do Norte / ES
+Taison Barcellos Freda;  177042;  Vinculo Encerrado ;  588435;  ;  13/01/1988;  19/07/2005 00:00:00; Internacional / RS
+Daniel Vicente Horst;  150143;  Contrato Emprestimo ;  ;  19/07/2005;  05/07/1981;  19/07/2005 00:00:00; Criciúma / SC
+Eduardo Luis Neves;  155736;  Contrato Definitivo ;  00506819;  01/07/2005;  07/02/1984;  19/07/2005 00:00:00; Ceilândia / DF
+Sandro Marques da Conceicao;  134778;  Contrato Definitivo ;  00506728;  01/07/2005;  14/01/1976;  19/07/2005 00:00:00; Ceilândia / DF
+Remerson dos Santos;  115215;  Contrato Definitivo ;  00451122;  01/07/2005;  13/07/1972;  19/07/2005 00:00:00; Gloria / RS
+Eduardo Luis Neves;  155736;  Vinculo Encerrado ;  19405;  ;  07/02/1984;  19/07/2005 00:00:00; Esporte Clube Ivoti / RS
+Gustavo Nogueira de Mattos;  175301;  Contrato Definitivo ;  00334415;  01/07/2005;  09/07/1988;  19/07/2005 00:00:00; Vasco da Gama / RJ
+Bruno Vieira Gallo de Freitas;  175300;  Contrato Definitivo ;  00360181;  01/07/2005;  07/05/1988;  19/07/2005 00:00:00; Vasco da Gama / RJ
+Wagner Correa Machado;  175258;  Contrato Definitivo ;  00515048;  05/07/2005;  24/03/1987;  19/07/2005 00:00:00; Madureira / RJ
+Dieyson Luan Lucena Barbosa;  167949;  Contrato Definitivo ;  00503987;  01/07/2005;  29/03/1988;  19/07/2005 00:00:00; Figueirense / SC
+Pedro Carmona da Silva Neto;  185034;  Vinculo Encerrado ;  226638;  18/07/2005;  15/04/1988;  18/07/2005 00:00:00; Juventude / RS
+Felipe de Araujo Nunes;  168969;  Contrato Definitivo ;  ;  18/07/2005;  02/03/1981;  18/07/2005 00:00:00; Confronto Temp. / 00
+Vinicius Pedroso dos Santos;  168605;  Contrato Definitivo ;  ;  18/07/2005;  08/05/1983;  18/07/2005 00:00:00; Confronto Temp. / 00
+Francisco Jairo Silva Santos;  175353;  Contrato Definitivo ;  00466495;  18/07/2005;  31/01/1988;  18/07/2005 00:00:00; Santa Cruz / PE
+Wilson Rodrigues Fonseca;  156837;  Contrato Emprestimo ;  ;  18/07/2005;  21/03/1985;  18/07/2005 00:00:00; Paulista Futebol Clube / SP
+Eder Costa da Gama;  175133;  Contrato Definitivo ;  00500020;  02/06/2005;  02/09/1981;  18/07/2005 00:00:00; Trem / AP
+Joacir Dias de Moura;  174984;  Contrato encerrado ;  00468725;  05/03/2005;  05/09/1980;  18/07/2005 00:00:00; Corumbaense Futebol Clube / MS
+Jair Valherro Junior;  174981;  Contrato encerrado ;  00468719;  05/03/2005;  09/08/1986;  18/07/2005 00:00:00; Corumbaense Futebol Clube / MS
+Edson Aurelio Ferreira de Lima da Silva;  174957;  Contrato Definitivo ;  00448343;  20/06/2005;  04/08/1986;  18/07/2005 00:00:00; Democrata / MG
+Luciano Silva de Oliveira;  174956;  Contrato Definitivo ;  00470510;  29/05/2005;  10/05/1988;  18/07/2005 00:00:00; Esportivo / MG
+Romulo da Silva Bispo;  161570;  Contrato Definitivo ;  00487621;  11/06/2005;  08/11/1984;  18/07/2005 00:00:00; Lagartense / SE
+Felipe Ramon Santos Costa;  160991;  Contrato Definitivo ;  00487608;  13/06/2005;  21/03/1985;  18/07/2005 00:00:00; Riachuelo Futebol Clube / SE
+Silvio Cesar Ferreira;  152701;  Contrato encerrado ;  00468728;  05/03/2005;  04/09/1975;  18/07/2005 00:00:00; Corumbaense Futebol Clube / MS
+Andre Manoel da Silva;  151784;  Contrato Definitivo ;  00487564;  20/06/2005;  11/03/1982;  18/07/2005 00:00:00; Itabaiana / SE
+Danilo Francisco Santana da Silva;  151182;  Contrato Definitivo ;  00466273;  23/05/2005;  01/12/1980;  18/07/2005 00:00:00; Ferroviario Esporte Clube / PE
+Edson Figueiredo;  141855;  Contrato encerrado ;  00481198;  01/03/2005;  30/12/1974;  18/07/2005 00:00:00; 7 de Setembro / MS
+Sergio Roberto Tavares;  137579;  Contrato Definitivo ;  00466334;  31/03/2005;  11/04/1980;  18/07/2005 00:00:00; Intercontinental Futebol Clube / PE
+Osvandir Jose Maciel dos Santos;  136371;  Contrato Definitivo ;  00487591;  14/06/2005;  17/10/1977;  18/07/2005 00:00:00; Riachuelo Futebol Clube / SE
+Erivelto Kardec Goncalves dos Santos;  135245;  Contrato encerrado ;  00468727;  05/03/2005;  06/05/1977;  18/07/2005 00:00:00; Corumbaense Futebol Clube / MS
+Nailson da Silva Gomes;  116532;  Contrato Definitivo ;  00466270;  23/05/2005;  12/07/1972;  18/07/2005 00:00:00; Ferroviario Esporte Clube / PE
+Paulo Sergio Betanin;  165462;  Contrato Definitivo ;  ;  16/07/2005;  10/01/1986;  16/07/2005 00:00:00; Confronto Temp. / 00
+Felipe Barreto Adao;  161163;  Contrato Definitivo ;  ;  16/07/2005;  26/11/1985;  16/07/2005 00:00:00; Confronto Temp. / 00
+Adeilson Pereira de Mello;  171224;  Contrato Definitivo ;  00480571;  16/07/2005;  07/10/1985;  16/07/2005 00:00:00; Guarani / SP
+Ronaille Calheira Seara;  159963;  Contrato Definitivo ;  ;  16/07/2005;  23/03/1984;  16/07/2005 00:00:00; Confronto Temp. / 00
+Assad Coelho Esteves Netto;  186186;  Vinculo Encerrado ;  563423;  ;  21/10/1987;  15/07/2005 00:00:00; Madureira / RJ
+Gustavo Nery de Sa da Silva;  124752;  Contrato Definitivo ;  00477998;  12/07/2005;  22/07/1977;  15/07/2005 00:00:00; Corinthians / SP
+Marlon Coleti Mariano;  159927;  Rescisão ;  510100;  ;  13/09/1982;  14/07/2005 00:00:00; Goytacaz / RJ
+Samuel Henrique dos Santos Eleoterio;  292280;  Vinculo Encerrado ;  565656;  14/07/2005;  25/04/1990;  14/07/2005 00:00:00; Guarani / SP
+Jean Pablo Mazaro;  175288;  Contrato Definitivo ;  00477999;  14/07/2005;  26/08/1988;  14/07/2005 00:00:00; Corinthians / SP
+Alexandre Afonso da Silva;  143263;  Contrato Emprestimo ;  ;  14/07/2005;  15/08/1983;  14/07/2005 00:00:00; Santos / SP
+Bruno Ferreira Bonfim;  176772;  Vinculo Encerrado ;  573418;  ;  19/01/1989;  14/07/2005 00:00:00; Corinthians / SP
+Jose Carlos Ferreira Filho;  148961;  Contrato Emprestimo ;  ;  14/09/2005;  24/04/1983;  14/07/2005 00:00:00; Ponte Preta / SP
+Fabricio dos Santos Messias;  189666;  Vinculo Encerrado ;  532676;  14/07/2005;  28/03/1990;  14/07/2005 00:00:00; Sport Club Barueri / SP
+Alessandro Venson Inacia;  174488;  Contrato Definitivo ;  00492154;  18/05/2005;  15/05/1985;  14/07/2005 00:00:00; Esporte Clube Prospera / SC
+Rodrigo Alves Amorim;  159697;  Contrato Definitivo ;  00503994;  30/06/2005;  27/05/1983;  14/07/2005 00:00:00; Tubarão / SC
+Jair Silva Santos;  174955;  Contrato Definitivo ;  00470853;  29/05/2005;  29/06/1986;  14/07/2005 00:00:00; Esportivo / MG
+Marcos Aparecido de Alcantara Silva;  174954;  Contrato Definitivo ;  00461301;  20/06/2005;  29/09/1985;  14/07/2005 00:00:00; Esportivo / MG
+Felipe dos Santos Lopes;  174953;  Contrato Definitivo ;  00471078;  20/06/2005;  19/02/1988;  14/07/2005 00:00:00; Esportivo / MG
+Rafael Reges Avelar;  174949;  Contrato Definitivo ;  00506838;  27/05/2005;  28/04/1985;  14/07/2005 00:00:00; Paracatu / DF
+Luiz Henrique Neves Bonfim;  174932;  Contrato Definitivo ;  00486110;  02/06/2005;  27/03/1986;  14/07/2005 00:00:00; Lencoense / SP
+Rodrigo Aparecido de Oliveira;  174931;  Contrato Definitivo ;  00486111;  03/06/2005;  28/02/1983;  14/07/2005 00:00:00; Lencoense / SP
+Anderson Lourenco dos Santos;  174922;  Contrato Definitivo ;  00485019;  02/06/2005;  21/11/1984;  14/07/2005 00:00:00; Itapevi Futebol Clube / SP
+Clayton Machado;  174921;  Contrato Definitivo ;  00496178;  01/06/2005;  10/01/1985;  14/07/2005 00:00:00; Jacarei / SP
+Francisco Wellington Nascimento de Sousa;  174916;  Contrato Definitivo ;  00485100;  02/06/2005;  15/04/1980;  14/07/2005 00:00:00; Xv de Novemb.sp / SP
+Alexsandro Antonio da Silva;  174915;  Contrato Definitivo ;  00466680;  06/06/2005;  26/06/1985;  14/07/2005 00:00:00; Palmares Futebol Clube / PE
+Esau Marques da Silva;  174914;  Contrato Definitivo ;  00466682;  06/06/2005;  19/05/1983;  14/07/2005 00:00:00; Palmares Futebol Clube / PE
+Aldinesio Junior dos Santos;  174913;  Contrato Definitivo ;  00466681;  06/06/2005;  07/05/1981;  14/07/2005 00:00:00; Palmares Futebol Clube / PE
+Anderson Lucas Ribeiro;  174910;  Contrato Definitivo ;  00504000;  01/06/2005;  19/04/1981;  14/07/2005 00:00:00; Tubarão / SC
+Thiago Lemos Rodrigues dos Santos;  174908;  Contrato Definitivo ;  00509946;  01/06/2005;  05/09/1986;  14/07/2005 00:00:00; Rubro Social.. / RJ
+Carlos Andre da Silva Soares;  174907;  Contrato Definitivo ;  00509938;  01/06/2005;  25/10/1978;  14/07/2005 00:00:00; Rubro Social.. / RJ
+Rogerio dos Santos;  174906;  Contrato Definitivo ;  00509945;  01/06/2005;  27/07/1984;  14/07/2005 00:00:00; Rubro Social.. / RJ
+Wellington Rosa Marinho;  174905;  Contrato Definitivo ;  00509940;  01/06/2005;  23/07/1982;  14/07/2005 00:00:00; Rodoviario Rj / RJ
+Alexssandro Valente de Oliveira;  174904;  Contrato Definitivo ;  00509943;  01/06/2005;  21/09/1986;  14/07/2005 00:00:00; Rubro Social.. / RJ
+Andre Luiz de Souza;  174902;  Contrato Definitivo ;  00509939;  01/06/2005;  23/05/1983;  14/07/2005 00:00:00; Rodoviario Rj / RJ
+Jose Adriano de Souza Ribeiro;  174901;  Contrato Definitivo ;  00509942;  01/06/2005;  11/03/1985;  14/07/2005 00:00:00; Rubro Social.. / RJ
+Marlon Dutra da Silva;  174898;  Contrato Definitivo ;  00491837;  15/06/2005;  11/04/1985;  14/07/2005 00:00:00; Internacional / SC
+Junior Vieira Lopes;  174886;  Contrato Definitivo ;  00481486;  25/03/2005;  14/12/1984;  14/07/2005 00:00:00; Associacao Riobrilhantense De / MS
+Alex Sander Benedito da Silva;  174884;  Contrato Definitivo ;  00468738;  29/03/2005;  25/02/1987;  14/07/2005 00:00:00; Clube de Esportes Uniao / MS
+Alexandre Benedito da Silva;  174883;  Contrato Definitivo ;  00468741;  29/03/2005;  07/07/1982;  14/07/2005 00:00:00; Clube de Esportes Uniao / MS
+Carlos Augusto Sales de Oliveira;  174882;  Contrato Definitivo ;  00483092;  23/03/2005;  18/07/1980;  14/07/2005 00:00:00; Clube de Esportes Uniao / MS
+Edmar Ferreira da Silva;  174881;  Contrato Definitivo ;  00468740;  29/03/2005;  19/02/1986;  14/07/2005 00:00:00; Clube de Esportes Uniao / MS
+Deivison Vicente Ferreira;  174879;  Contrato Definitivo ;  00483093;  21/03/2005;  03/10/1983;  14/07/2005 00:00:00; Clube de Esportes Uniao / MS
+Everton Ckiley Goncalves dos Santos;  174878;  Contrato encerrado ;  00468712;  05/03/2005;  29/07/1982;  14/07/2005 00:00:00; Corumbaense Futebol Clube / MS
+Carlos Eduardo Pereira da Silva;  174876;  Contrato Definitivo ;  00508049;  18/04/2005;  11/02/1984;  14/07/2005 00:00:00; Clube de Esportes Uniao / MS
+Michel Johnny Pereira Vaz;  174874;  Contrato encerrado ;  00477504;  04/04/2005;  27/07/1984;  14/07/2005 00:00:00; Ec Campo Grande / MS
+Marcos Ivan Silva Junior;  174873;  Contrato encerrado ;  00483043;  04/04/2005;  13/10/1982;  14/07/2005 00:00:00; Ec Campo Grande / MS
+Cleverton Adalto Martins;  174870;  Contrato encerrado ;  00481204;  01/03/2005;  12/03/1982;  14/07/2005 00:00:00; 7 de Setembro / MS
+Andre Luiz Marques Espindola;  174868;  Contrato encerrado ;  00481206;  01/03/2005;  29/09/1981;  14/07/2005 00:00:00; 7 de Setembro / MS
+Bruno Carlos Barbosa Nobre;  174865;  Contrato Definitivo ;  00506702;  08/06/2005;  06/11/1987;  14/07/2005 00:00:00; Clube de Regatas Guara / DF
+Eudes de Sousa Moreira;  174863;  Contrato Definitivo ;  00506814;  06/06/2005;  10/02/1987;  14/07/2005 00:00:00; Clube de Regatas Guara / DF
+Dilson Pablo Mares Pereira;  174862;  Contrato Definitivo ;  00506622;  03/06/2005;  28/02/1986;  14/07/2005 00:00:00; Clube de Regatas Guara / DF
+Rafael Barcelos Silva;  174861;  Contrato Definitivo ;  00506620;  09/06/2005;  08/05/1987;  14/07/2005 00:00:00; Cfz / DF
+Everton Alves Florencio;  174857;  Contrato Definitivo ;  00506695;  09/06/2005;  10/03/1987;  14/07/2005 00:00:00; Ceilândia / DF
+Victor Manoel Dias dos Santos;  174856;  Contrato Definitivo ;  00506619;  19/05/2005;  05/08/1985;  14/07/2005 00:00:00; Cfz / DF
+Rildo Alves de Oliveira;  174855;  Contrato Definitivo ;  00504310;  01/06/2005;  12/10/1979;  14/07/2005 00:00:00; Boca Junior / SE
+Guilherme Cabreira Junior;  174841;  Contrato encerrado ;  00508038;  01/04/2005;  21/09/1984;  14/07/2005 00:00:00; 7 de Setembro / MS
+Dario Soares Barbosa;  174840;  Contrato encerrado ;  00508037;  01/04/2005;  18/08/1985;  14/07/2005 00:00:00; 7 de Setembro / MS
+Thiago Souza Machado;  174837;  Contrato encerrado ;  00508082;  01/04/2005;  02/01/1985;  14/07/2005 00:00:00; 7 de Setembro / MS
+Rodolfo Rodrigues Paterno da Silva;  174836;  Contrato encerrado ;  00508081;  01/04/2005;  09/11/1986;  14/07/2005 00:00:00; 7 de Setembro / MS
+Julio Cezar Alves;  174835;  Contrato encerrado ;  00508080;  01/04/2005;  01/03/1987;  14/07/2005 00:00:00; 7 de Setembro / MS
+Rodrigo de Paula Pereira;  174834;  Contrato encerrado ;  00475008;  04/04/2005;  31/05/1984;  14/07/2005 00:00:00; Ec Campo Grande / MS
+Joilson Alves Correa;  174832;  Contrato Definitivo ;  00484461;  17/03/2005;  31/05/1983;  14/07/2005 00:00:00; Futebol Clube do Porto / MS
+Joeder Leonardo Vargas;  174831;  Contrato Definitivo ;  00484462;  17/03/2005;  21/05/1983;  14/07/2005 00:00:00; Futebol Clube do Porto / MS
+Elton Fonte Oliveira;  174823;  Contrato encerrado ;  00468698;  31/03/2005;  18/04/1983;  14/07/2005 00:00:00; Coxim Atletico Clube / MS
+Givanildo Pinto Correa;  174820;  Contrato Definitivo ;  00484476;  20/03/2005;  26/05/1976;  14/07/2005 00:00:00; Futebol Clube do Porto / MS
+Laercio Araujo;  174819;  Contrato Definitivo ;  00484475;  22/03/2005;  15/06/1978;  14/07/2005 00:00:00; Futebol Clube do Porto / MS
+Trifelo Elias Miranda;  174818;  Contrato Definitivo ;  00508029;  06/04/2005;  03/09/1977;  14/07/2005 00:00:00; Futebol Clube do Porto / MS
+Alan Cesar Mafra;  173676;  Contrato Definitivo ;  00495832;  01/07/2005;  07/02/1984;  14/07/2005 00:00:00; Sertãozinho / SP
+Danilo Serafim Alves Castro;  172804;  Contrato Definitivo ;  00485311;  20/06/2005;  01/12/1985;  14/07/2005 00:00:00; Sociedade Esportiva Planaltina / DF
+Fernando Alves Vitor;  171750;  Contrato Definitivo ;  00485309;  10/06/2005;  15/05/1987;  14/07/2005 00:00:00; Sociedade Esportiva Planaltina / DF
+Wdson Souza Gomes;  169308;  Contrato Definitivo ;  00500837;  21/05/2005;  19/02/1984;  14/07/2005 00:00:00; Esporte Clube Guanduense / ES
+Antonio Pugliese Pereira;  159538;  Contrato Definitivo ;  00503108;  05/05/2005;  22/03/1985;  14/07/2005 00:00:00; Botafogo / RJ
+Jose Edilson da Silva;  157595;  Contrato Definitivo ;  00466316;  30/03/2005;  25/02/1978;  14/07/2005 00:00:00; América(inativo) / PE
+Fabio Evangelista de Mendonca;  154794;  Contrato Definitivo ;  00479759;  05/06/2005;  26/02/1984;  14/07/2005 00:00:00; Friburguense / RJ
+Ronaldo Aquino de Menezes;  143033;  Contrato Definitivo ;  00468910;  04/05/2005;  11/05/1983;  14/07/2005 00:00:00; Artsul Futebol Clube Ltda / RJ
+Ricardo Tavares Coutinho;  138467;  Contrato Definitivo ;  00466431;  27/04/2005;  31/07/1979;  14/07/2005 00:00:00; Intercontinental Futebol Clube / PE
+Alex Fidelis da Silva;  131634;  Contrato Definitivo ;  00466226;  23/03/2005;  01/06/1978;  14/07/2005 00:00:00; Ibis / PE
+Hercules Cavalcante de Lima;  125230;  Contrato Definitivo ;  00466339;  01/04/2005;  18/08/1977;  14/07/2005 00:00:00; Cabense / PE
+Alessandro Venson Inacia;  174488;  Vinculo Encerrado ;  20369;  ;  15/05/1985;  14/07/2005 00:00:00; Esporte Clube Prospera / SC
+Rodrigo Alves Amorim;  159697;  Vinculo Encerrado ;  19606;  ;  27/05/1983;  14/07/2005 00:00:00; Tubarão / SC
+Tassio Rocha Lima;  175245;  Contrato Definitivo ;  00518566;  01/07/2005;  02/03/1987;  14/07/2005 00:00:00; Villa Nova A.c. / MG
+Luiz Ricardo Silva Rosario;  175244;  Contrato Definitivo ;  00509310;  01/07/2005;  10/02/1987;  14/07/2005 00:00:00; Villa Nova A.c. / MG
+Emanoel Henrique de Andrade;  175243;  Contrato Definitivo ;  00509309;  01/07/2005;  05/04/1986;  14/07/2005 00:00:00; Villa Nova A.c. / MG
+Cergio Junior da Silva Souza;  174872;  Contrato Definitivo ;  00481484;  25/03/2005;  16/06/1980;  14/07/2005 00:00:00; Associacao Riobrilhantense De / MS
+Luciel Jesus da Silva;  174789;  Contrato Definitivo ;  00494764;  10/05/2005;  12/07/1985;  14/07/2005 00:00:00; Associacao Portuguesa Londrinense / PR
+Alexsandro de Andrade Peres;  131822;  Contrato Definitivo ;  00503749;  01/07/2005;  15/02/1980;  13/07/2005 00:00:00; Novo Hamburgo / RS
+Reinaldo de Morais Peres;  144301;  Contrato Definitivo ;  ;  13/07/2005;  22/10/1980;  13/07/2005 00:00:00; Confronto Temp. / 00
+Alexandre Afonso da Silva;  143263;  Contrato Definitivo ;  484684;  13/07/2005;  15/08/1983;  13/07/2005 00:00:00; Mac / SP
+Danilo Moreno Raymundo;  175230;  Contrato Definitivo ;  00484726;  04/07/2005;  28/02/1986;  13/07/2005 00:00:00; Ituano / SP
+Anderson Rafael Zanon;  174781;  Contrato Definitivo ;  00491977;  09/06/2005;  06/06/1983;  13/07/2005 00:00:00; Concordia Atletico Clube / SC
+Marcio Jose Lopes;  174563;  Contrato Definitivo ;  00505654;  09/05/2005;  24/07/1978;  13/07/2005 00:00:00; Esporte Clube Guanduense / ES
+Rondineli Macedo dos Santos;  174562;  Contrato Definitivo ;  00507755;  11/05/2005;  21/07/1980;  13/07/2005 00:00:00; Esporte Clube Guanduense / ES
+Jose Geraldo de Oliveira Silvano;  174561;  Contrato Definitivo ;  00507791;  08/05/2005;  31/03/1985;  13/07/2005 00:00:00; Unidos de Calcado Esporte Clube / ES
+Thiago Coelho Jonas;  174558;  Contrato Definitivo ;  00507783;  08/05/2005;  03/09/1985;  13/07/2005 00:00:00; Unidos de Calcado Esporte Clube / ES
+Emerson Silva Oliveira;  174553;  Contrato Definitivo ;  00507860;  07/05/2005;  08/01/1973;  13/07/2005 00:00:00; Gremio Esportivo Laranjeiras / ES
+Glaucio Mendonca;  174552;  Contrato Definitivo ;  00505664;  27/05/2005;  28/05/1984;  13/07/2005 00:00:00; Esporte Clube Guanduense / ES
+Flavio Luiz dos Santos Junior;  174532;  Contrato encerrado ;  00502893;  25/02/2005;  15/10/1988;  13/07/2005 00:00:00; Rio Branco / PR
+Eleandro Josemir Canova;  174486;  Contrato Definitivo ;  00492238;  30/05/2005;  18/12/1979;  13/07/2005 00:00:00; Clube Recreativo Maravilha / SC
+Fabiano Carlos;  154765;  Contrato Definitivo ;  00508343;  17/05/2005;  21/02/1981;  13/07/2005 00:00:00; Araucaria Futebol Clube / PR
+Paulo Roberto Santos Antonio;  175219;  Contrato Definitivo ;  00515046;  05/07/2005;  19/06/1985;  13/07/2005 00:00:00; Madureira / RJ
+Marcelo Lopes Fanezio;  174564;  Contrato Definitivo ;  00505658;  10/05/2005;  08/03/1977;  13/07/2005 00:00:00; Esporte Clube Guanduense / ES
+Italo Guedes da Silva;  174560;  Contrato Definitivo ;  00505621;  08/05/2005;  31/05/1987;  13/07/2005 00:00:00; Unidos de Calcado Esporte Clube / ES
+Phietro Furtado Dias;  174559;  Contrato Definitivo ;  00505620;  08/05/2005;  21/01/1984;  13/07/2005 00:00:00; Unidos de Calcado Esporte Clube / ES
+Jose Carlos Vieira dos Santos;  169759;  Contrato Definitivo ;  00484996;  01/07/2005;  06/05/1988;  13/07/2005 00:00:00; Corinthians / SP
+Fabio Tenorio da Silva;  150641;  Contrato Definitivo ;  00509793;  01/07/2005;  13/04/1982;  13/07/2005 00:00:00; Cabofriense / RJ
+Jurandir Fatori;  104913;  Rescisão ;  00497821;  ;  12/06/1971;  12/07/2005 00:00:00; Olimpia Fc / SP
+William Junior Salles de Lima Souza;  141880;  Contrato Definitivo ;  ;  12/07/2005;  14/05/1983;  12/07/2005 00:00:00; Confronto Temp. / 00
+Anderson dos Santos Pereira;  162937;  Contrato Definitivo ;  00486631;  01/07/2005;  13/03/1981;  12/07/2005 00:00:00; Sertãozinho / SP
+Vinicius Cunha Reche;  155976;  Contrato Emprestimo ;  ;  12/07/2005;  28/01/1984;  12/07/2005 00:00:00; Atlético Sorocaba / SP
+Michael Tischer;  408859;  Vinculo Encerrado ;  485920;  ;  26/09/1988;  12/07/2005 00:00:00; Independente / SP
+Johny Tadeu Caceres;  174816;  Contrato Definitivo ;  00508031;  06/04/2005;  27/04/1985;  12/07/2005 00:00:00; Futebol Clube do Porto / MS
+Marcos Antonio Cezar;  174814;  Contrato Definitivo ;  00511012;  03/06/2005;  11/03/1977;  12/07/2005 00:00:00; Esporte Clube Guanduense / ES
+Diego Martins dos Santos;  174811;  Contrato Definitivo ;  00509603;  01/05/2005;  05/07/1986;  12/07/2005 00:00:00; Sao Cristovao / RJ
+Josemar de Lima Fernandes;  174809;  Contrato Definitivo ;  00509772;  30/05/2005;  01/12/1986;  12/07/2005 00:00:00; Rodoviario Rj / RJ
+Mauricio Marcos de Moura Barros;  174796;  Contrato Definitivo ;  00509991;  01/06/2005;  10/07/1985;  12/07/2005 00:00:00; Profute / RJ
+Bruno da Silva Jardim;  174557;  Contrato Definitivo ;  00507796;  08/05/2005;  13/05/1982;  12/07/2005 00:00:00; Unidos de Calcado Esporte Clube / ES
+Evandro Nobre Barbosa;  174555;  Contrato Definitivo ;  00507780;  08/05/2005;  07/08/1978;  12/07/2005 00:00:00; Unidos de Calcado Esporte Clube / ES
+Rodrigo da Silva Assis;  174554;  Contrato Definitivo ;  00507793;  08/05/2005;  09/02/1983;  12/07/2005 00:00:00; Unidos de Calcado Esporte Clube / ES
+Jucelio Ferreira da Lima;  174549;  Contrato Definitivo ;  00484953;  31/05/2005;  26/02/1983;  12/07/2005 00:00:00; Comercial Ec / SP
+Thiago Ferreira Aguilar;  174545;  Contrato Definitivo ;  00505103;  01/05/2005;  20/06/1985;  12/07/2005 00:00:00; Sao Cristovao / RJ
+Fabricio Correia Teixeira da Silva;  174544;  Contrato Definitivo ;  00506181;  01/04/2005;  16/07/1982;  12/07/2005 00:00:00; Angra dos Reis Esporte Clube / RJ
+Flavio de Farias Maria;  174543;  Contrato Definitivo ;  00506180;  01/05/2005;  15/02/1977;  12/07/2005 00:00:00; Angra dos Reis Esporte Clube / RJ
+Laercio Santos;  174489;  Contrato Definitivo ;  00507888;  05/05/2005;  27/05/1981;  12/07/2005 00:00:00; Sociedade Esportiva Alfredense / ES
+Jose Antonio Timotheo de Lima Couto;  174484;  Contrato Definitivo ;  00470668;  07/05/2005;  20/05/1984;  12/07/2005 00:00:00; Sociedade Desportiva Yuracan F / MG
+Carlos Vinicius Timotheo de Lima;  174483;  Contrato Definitivo ;  00509259;  05/05/2005;  20/11/1985;  12/07/2005 00:00:00; Sociedade Desportiva Yuracan F / MG
+Carlos Eduardo Freitas da Silva;  174482;  Contrato Definitivo ;  00422914;  01/06/2005;  05/12/1984;  12/07/2005 00:00:00; Barcelona / SP
+Elton Andrade de Souza;  174481;  Contrato Definitivo ;  00482482;  01/06/2005;  09/01/1985;  12/07/2005 00:00:00; Feirense / BA
+Laudilino Costa Claudino;  173175;  Contrato Definitivo ;  00502633;  20/05/2005;  20/11/1984;  12/07/2005 00:00:00; Oeiras A.c. / PI
+Giordanny Mota Bezerra Cunha;  166746;  Contrato Definitivo ;  00503317;  30/06/2005;  17/04/1985;  12/07/2005 00:00:00; Baraúnas / RN
+Emilson Chaves de Oliveira;  165762;  Contrato Definitivo ;  00509941;  01/06/2005;  05/10/1983;  12/07/2005 00:00:00; Rubro Social.. / RJ
+Fabricio Gomes dos Santos;  150535;  Contrato Definitivo ;  00509993;  28/06/2005;  09/08/1977;  12/07/2005 00:00:00; Profute / RJ
+Wallace Luiz de Oliveira;  148460;  Contrato Definitivo ;  00509591;  01/06/2005;  23/02/1976;  12/07/2005 00:00:00; Tigres do Brasil / RJ
+Julio Cesar Fernandes Granja;  104797;  Contrato Definitivo ;  00509714;  25/04/2005;  30/06/1969;  12/07/2005 00:00:00; Ceres / RJ
+Anderson dos Santos Pereira;  162937;  Vinculo Encerrado ;  19746;  ;  13/03/1981;  12/07/2005 00:00:00; Federacao Bahiana de Futebol / 00
+Bruno Henrique da Silva Souza;  175214;  Contrato Definitivo ;  00508597;  01/07/2005;  10/09/1988;  12/07/2005 00:00:00; Paraná / PR
+Jefferson Andrade Siqueira;  170819;  Contrato Definitivo ;  00508598;  01/07/2005;  06/01/1988;  12/07/2005 00:00:00; Paraná / PR
+Maxwell Silva Lima;  175185;  Contrato Definitivo ;  00508864;  01/06/2005;  01/05/1987;  12/07/2005 00:00:00; Adap Galo / PR
+Carlos Alexandre Areco Ferraz;  154506;  Contrato Definitivo ;  00508116;  01/07/2005;  07/10/1982;  12/07/2005 00:00:00; Cene / MS
+Jederson Cristiano Camargo Lopes;  149791;  Contrato Definitivo ;  00508113;  01/07/2005;  15/09/1983;  12/07/2005 00:00:00; Cene / MS
+Carlos Eduardo Moura da Cunha;  147113;  Contrato Emprestimo ;  00478012;  11/07/2005;  19/04/1980;  11/07/2005 00:00:00; Bragantino / SP
+Antonio Adriano Antunes de Paula;  172563;  Contrato Emprestimo ;  ;  11/07/2005;  13/06/1987;  11/07/2005 00:00:00; Vitória S/a / 00
+Edvanio Zandonay;  150811;  Contrato Definitivo ;  00503958;  28/06/2005;  16/10/1980;  11/07/2005 00:00:00; Esporte Clube Prospera / SC
+Jose Mario Borges Cruz;  115462;  Contrato Definitivo ;  00509165;  23/06/2005;  17/02/1970;  11/07/2005 00:00:00; Ipanema / AL
+Leonardo Nunes Gomes de Queiroz Carreira Filho;  175182;  Contrato Definitivo ;  00509896;  01/06/2005;  07/10/1988;  11/07/2005 00:00:00; Fluminense / RJ
+Luiz Ricardo Martins Paes;  174607;  Contrato Definitivo ;  00486142;  01/04/2005;  04/09/1986;  11/07/2005 00:00:00; Associacao Portuguesa Londrinense / PR
+Bruno Henrique Batista;  174606;  Contrato Definitivo ;  00508652;  06/06/2005;  15/07/1984;  11/07/2005 00:00:00; Nacional / PR
+Avila de Sousa;  171580;  Contrato Definitivo ;  00500054;  28/05/2005;  02/06/1984;  11/07/2005 00:00:00; Sao Paulo Futebol Clube / AP
+Flavio Marcelo Stempkowski;  171405;  Contrato Definitivo ;  00494778;  02/05/2005;  03/02/1986;  11/07/2005 00:00:00; Prudentopolis Esporte Clube / PR
+Wandiney Jorge da Silva;  170680;  Contrato Definitivo ;  00514901;  10/06/2005;  28/01/1984;  11/07/2005 00:00:00; Columbia / RJ
+Wesles Pereira de Souza;  170679;  Contrato Definitivo ;  00514887;  10/06/2005;  12/11/1982;  11/07/2005 00:00:00; Columbia / RJ
+Welber Santana Evangelista;  170308;  Contrato encerrado ;  00510011;  01/06/2005;  27/04/1984;  11/07/2005 00:00:00; Imperial Futebol Clube / RJ
+Rosino Castro Ferreira;  169970;  Contrato Definitivo ;  00500073;  28/05/2005;  08/02/1976;  11/07/2005 00:00:00; Cristal / AP
+Sergio Lopes da Silva;  161025;  Contrato Definitivo ;  00504390;  08/06/2005;  16/08/1983;  11/07/2005 00:00:00; Ipanema / AL
+Robson Santos Oliveira;  160942;  Contrato Definitivo ;  00487546;  14/06/2005;  22/08/1982;  11/07/2005 00:00:00; Riachuelo Futebol Clube / SE
+Italo de Souza Rodrigues;  160183;  Contrato Definitivo ;  00485464;  20/06/2005;  17/03/1981;  11/07/2005 00:00:00; Sociedade Esportiva Planaltina / DF
+Ebson Siebson Damarceno Santos;  153756;  Contrato Definitivo ;  00502571;  27/05/2005;  24/08/1981;  11/07/2005 00:00:00; Comercial A.c. / PI
+Celso Fernandes Pereira Junior;  151500;  Contrato Definitivo ;  00500076;  28/05/2005;  12/10/1980;  11/07/2005 00:00:00; Sao Paulo Futebol Clube / AP
+Jean Carlo Oliveira Souto;  147255;  Contrato Definitivo ;  00500001;  28/05/2005;  27/12/1979;  11/07/2005 00:00:00; Amapa / AP
+Andre Luiz Paulino Coelho;  143725;  Contrato Definitivo ;  00514883;  10/06/2005;  14/05/1979;  11/07/2005 00:00:00; Columbia / RJ
+Fagner Rocha de Souza;  137703;  Contrato Definitivo ;  00505228;  01/06/2005;  11/07/1980;  11/07/2005 00:00:00; Tigres do Brasil / RJ
+Alberto Carlos dos Santos;  136260;  Contrato Definitivo ;  00487561;  20/06/2005;  06/11/1974;  11/07/2005 00:00:00; Riachuelo Futebol Clube / SE
+Jardel Pereira Soares;  121695;  Contrato Definitivo ;  00479013;  02/06/2005;  07/08/1972;  11/07/2005 00:00:00; Trem / AP
+Jair Epifanio dos Santos;  121247;  Contrato Definitivo ;  00487558;  18/06/2005;  08/01/1973;  11/07/2005 00:00:00; Riachuelo Futebol Clube / SE
+Daniel Conceicao Silva;  112082;  Contrato Definitivo ;  00466186;  08/06/2005;  10/10/1970;  11/07/2005 00:00:00; Ipanema / AL
+Edvanio Zandonay;  150811;  Vinculo Encerrado ;  19245;  ;  16/10/1980;  11/07/2005 00:00:00; Esporte Clube Prospera / SC
+Jose Mario Borges Cruz;  115462;  Vinculo Encerrado ;  18516;  ;  17/02/1970;  11/07/2005 00:00:00; Federacao Bahiana de Futebol / 00
+Rafael Celso Pires;  175198;  Contrato Definitivo ;  00468485;  22/06/2005;  05/06/1961;  11/07/2005 00:00:00; Aparecidense / GO
+Cristiano Pereira Beato;  172354;  Contrato Definitivo ;  00484994;  01/07/2005;  29/03/1986;  11/07/2005 00:00:00; Corinthians / SP
+Leandro Porto Lourenco;  168991;  Contrato Definitivo ;  00435268;  27/06/2005;  06/01/1986;  11/07/2005 00:00:00; Goiás / GO
+Claudio Luiz Jandre Sobrinho;  151549;  Contrato Definitivo ;  ;  09/07/2005;  25/09/1981;  09/07/2005 00:00:00; Confronto Temp. / 00
+Alberto Rafael da Silva;  170739;  Contrato Definitivo ;  00485878;  08/07/2005;  24/03/1984;  08/07/2005 00:00:00; Ca Taquaritinga / SP
+Olberdam de Oliveira Serra;  147236;  Contrato Definitivo ;  ;  08/07/2005;  06/02/1985;  08/07/2005 00:00:00; Confronto Temp. / 00
+Edson Henrique da Silva;  175314;  Contrato Definitivo ;  00504086;  08/07/2005;  06/07/1987;  08/07/2005 00:00:00; Figueirense / SC
+Andrey Ricardo Nunes de Almeida Alves;  178662;  Vinculo Encerrado ;  579359;  ;  10/04/1988;  08/07/2005 00:00:00; Santo André / SP
+Ednelson da Conceicao Silva;  108184;  Contrato Definitivo ;  00502870;  01/05/2005;  03/07/1970;  08/07/2005 00:00:00; Ponta Grossa Pr / PR
+Deusdedith Ribeiro da Silva Neto;  175164;  Contrato Definitivo ;  00482469;  06/07/2005;  17/11/1985;  08/07/2005 00:00:00; Camacari / BA
+Raimundo Pereira da Silva Filho;  174527;  Contrato Definitivo ;  00505897;  02/05/2005;  09/01/1985;  08/07/2005 00:00:00; Prudentopolis Esporte Clube / PR
+Julio Cesar Carvalho Barbosa;  173913;  Contrato Definitivo ;  00500392;  05/05/2005;  30/06/1984;  08/07/2005 00:00:00; Uruburetama / CE
+Renato Pinto Guedes;  173668;  Contrato encerrado ;  00496159;  10/01/2005;  28/05/1983;  08/07/2005 00:00:00; Catanduvense / SP
+Adriano Messias de Souza;  168699;  Contrato encerrado ;  00483286;  01/04/2005;  06/05/1986;  08/07/2005 00:00:00; Moreninhas / MS
+Ronaldo Ribeiro dos Santos;  167447;  Contrato encerrado ;  00481475;  04/04/2005;  27/12/1978;  08/07/2005 00:00:00; Costa Rica Esporte Clube / MS
+Adriano Saraiva de Souza;  164760;  Contrato Definitivo ;  00490881;  12/05/2005;  24/01/1984;  08/07/2005 00:00:00; União Mogi das Cruzes Fc / SP
+Carlos Alberto Cristaldo Lopes;  139585;  Contrato encerrado ;  00494797;  11/03/2005;  22/11/1980;  08/07/2005 00:00:00; Adap Galo / PR
+Glauber Marques da Silva;  137993;  Contrato Definitivo ;  00474873;  20/05/2005;  09/03/1982;  08/07/2005 00:00:00; Forca / SP
+Jairson do Espirito Santo Conceicao;  137111;  Contrato Definitivo ;  00494757;  10/05/2005;  30/03/1980;  08/07/2005 00:00:00; Associacao Portuguesa Londrinense / PR
+Sergio Ney Sheid;  135824;  Contrato Definitivo ;  00508691;  01/06/2005;  09/07/1974;  08/07/2005 00:00:00; Pato / PR
+Celio Borges de Oliveira;  123079;  Contrato encerrado ;  00483091;  30/03/2005;  30/01/1975;  08/07/2005 00:00:00; Misto Esporte Clube / MS
+Ednelson da Conceicao Silva;  108184;  Vinculo Encerrado ;  18457;  ;  03/07/1970;  08/07/2005 00:00:00; Ponta Grossa Pr / PR
+Manoel Dionanton Paiva Rodrigues;  174614;  Contrato Definitivo ;  00463908;  02/06/2005;  17/02/1985;  08/07/2005 00:00:00; Ferroviário / CE
+Carlos Magno dos Santos Barbosa;  164892;  Contrato Definitivo ;  00483749;  04/07/2005;  29/01/1986;  08/07/2005 00:00:00; Vitória / BA
+Maik Schelder Feller;  162851;  Contrato Definitivo ;  00505660;  11/06/2005;  31/03/1984;  08/07/2005 00:00:00; Esporte Clube Guanduense / ES
+Felipe Spellmeier;  160628;  Contrato Definitivo ;  00482906;  02/07/2005;  05/04/1986;  08/07/2005 00:00:00; Juventude / RS
+Jose Amadeu Elvino;  101510;  Contrato Definitivo ;  491085;  07/07/2005;  11/05/1968;  07/07/2005 00:00:00; Barbarense / SP
+Luiz Diallisson de Souza Alves;  172576;  Contrato Emprestimo ;  450899;  07/07/2005;  13/12/1986;  07/07/2005 00:00:00; Internacional / RS
+Anderson Moreno dos Santos;  156114;  Contrato Definitivo ;  ;  07/07/2005;  28/10/1982;  07/07/2005 00:00:00; Confronto Temp. / 00
+Diego de Souza Andrade;  161625;  Contrato Definitivo ;  ;  07/07/2005;  17/06/1985;  07/07/2005 00:00:00; Tombense / MG
+Antonio Ailton dos Santos Morais;  174509;  Contrato Definitivo ;  00463794;  15/04/2005;  06/04/1983;  07/07/2005 00:00:00; Boa Viagem / CE
+Jose Roberto de Menezes;  96926;  Contrato Definitivo ;  00489558;  01/06/2005;  15/04/1966;  07/07/2005 00:00:00; Ji-paraná / RO
+Eduardo Martins de Souza;  174617;  Contrato Definitivo ;  00491641;  15/01/2005;  28/08/1905;  07/07/2005 00:00:00; Nacional / AM
+Carlos Andre Garcia;  174472;  Contrato Definitivo ;  00500688;  02/05/2005;  15/03/1985;  07/07/2005 00:00:00; Gama / DF
+Bruno Gomes Ferreira;  174182;  Contrato Definitivo ;  00486780;  20/04/2005;  11/07/1986;  07/07/2005 00:00:00; Xv de Novemb.sp / SP
+Sebastiao Silva Rodrigues;  174174;  Contrato Definitivo ;  00490886;  12/05/2005;  05/06/1984;  07/07/2005 00:00:00; União Mogi das Cruzes Fc / SP
+Rodrigo Lopes Muniz de Souza;  170830;  Contrato Definitivo ;  00490775;  04/04/2005;  07/02/1987;  07/07/2005 00:00:00; União Mogi das Cruzes Fc / SP
+Sandro Drummond da Silva;  170654;  Contrato encerrado ;  00457164;  21/04/2005;  26/05/1983;  07/07/2005 00:00:00; Independenc. / AC
+Jacir Pedro de Oliveira Junior;  170481;  Contrato Definitivo ;  00509923;  01/06/2005;  02/04/1981;  07/07/2005 00:00:00; Villa Rio Esporte Clube / RJ
+Pedro Henrique Martins Goncalves;  170391;  Contrato encerrado ;  00510006;  01/06/2005;  13/08/1984;  07/07/2005 00:00:00; Imperial Futebol Clube / RJ
+Douglas Izaias Santos da Silva;  164631;  Contrato Definitivo ;  00490884;  12/05/2005;  05/01/1985;  07/07/2005 00:00:00; União Mogi das Cruzes Fc / SP
+Everton Batista Sousa;  162995;  Contrato encerrado ;  00503454;  21/02/2005;  14/07/1985;  07/07/2005 00:00:00; Cruzeiro E.c. / RO
+Thiago Tepedino Pereira;  161000;  Contrato Definitivo ;  00509926;  01/06/2005;  21/05/1982;  07/07/2005 00:00:00; Villa Rio Esporte Clube / RJ
+Jose Alexandre de Souza Silva;  159654;  Contrato Definitivo ;  00509944;  01/06/2005;  01/10/1984;  07/07/2005 00:00:00; Rubro Social.. / RJ
+Marcelo Anderson Ferreira de Goes;  152887;  Contrato Definitivo ;  00478996;  02/06/2005;  14/10/1979;  07/07/2005 00:00:00; Trem / AP
+Kleverton Vandre Santos Monteiro;  151048;  Contrato Definitivo ;  00500022;  02/06/2005;  23/06/1976;  07/07/2005 00:00:00; Trem / AP
+Renato Abonizio de Souza;  147112;  Contrato Definitivo ;  00511245;  06/06/2005;  29/10/1979;  07/07/2005 00:00:00; América / MG
+Alcy Guimaraes da Cruz;  145346;  Contrato Definitivo ;  00479016;  02/06/2005;  03/10/1976;  07/07/2005 00:00:00; Trem / AP
+Jocimar Felix da Silva;  125635;  Contrato Definitivo ;  00514374;  10/06/2005;  30/06/1973;  07/07/2005 00:00:00; Duque Caxiense Futebol Clube / RJ
+Antonio Ailton dos Santos Morais;  174509;  Vinculo Encerrado ;  20372;  ;  06/04/1983;  07/07/2005 00:00:00; Boa Viagem / CE
+Luiz Paulo Martins de Melo;  174236;  Contrato Definitivo ;  00506956;  04/05/2005;  12/02/1988;  07/07/2005 00:00:00; Paracatu / DF
+Felipe de Lima Soares;  174212;  Contrato Definitivo ;  00506599;  01/05/2005;  13/04/1988;  07/07/2005 00:00:00; Rio Branco de Andradas Futebol / MG
+Ivan Carlos de Souza Santos;  154093;  Contrato Definitivo ;  00480626;  05/07/2005;  08/06/1982;  07/07/2005 00:00:00; São Caetano / SP
+Leonardo Florido Moschetto;  144602;  Contrato Definitivo ;  139763;  06/07/2005;  04/12/1983;  06/07/2005 00:00:00; Sport / PE
+Victor Manoel Correia Neto;  175175;  Contrato Definitivo ;  00487552 ;  20/06/2005;  03/06/1988;  06/07/2005 00:00:00; Riachuelo Futebol Clube / SE
+Rafael Santos Bergamasco;  160346;  Contrato Definitivo ;  480706;  06/07/2005;  17/01/1986;  06/07/2005 00:00:00; Mirassol / SP
+Daniel Lins Cortes;  143553;  Contrato Emprestimo ;  ;  06/07/2005;  12/12/1979;  06/07/2005 00:00:00; Juventude / RS
+Lucas Diniz Paiva;  174522;  Contrato Definitivo ;  00509223;  11/05/2005;  19/01/1984;  06/07/2005 00:00:00; Atletico Patrocinense / MG
+Paulo Rogerio dos Anjos Ribeiro;  174497;  Contrato Definitivo ;  00507887;  05/05/2005;  06/05/1978;  06/07/2005 00:00:00; Sociedade Esportiva Alfredense / ES
+Jeferson Partelli Mello de Paula;  174493;  Contrato Definitivo ;  00507889;  05/05/2005;  08/01/1984;  06/07/2005 00:00:00; Sociedade Esportiva Alfredense / ES
+Domingos Moreira Neto;  142809;  Contrato Definitivo ;  00509351;  19/05/2005;  16/04/1980;  06/07/2005 00:00:00; Colinas Esporte Clube / TO
+Paulo Eduardo Voltolini Faigel;  138292;  Contrato encerrado ;  00503496;  03/06/2005;  11/08/1978;  06/07/2005 00:00:00; União / RO
+Michel Platini Ferreira Mesquita;  160144;  Contrato Emprestimo ;  ;  06/07/2005;  08/09/1983;  06/07/2005 00:00:00; Ceilândia / DF
+Wanderson Cruz Pereira;  174580;  Contrato Definitivo ;  00507911;  13/05/2005;  20/07/1985;  06/07/2005 00:00:00; Sul America Futebol Clube / ES
+Leon de Oliveira Santos;  174577;  Contrato Definitivo ;  00505626;  13/05/2005;  10/01/1981;  06/07/2005 00:00:00; Sul America Futebol Clube / ES
+Josimar Viana Moreira;  174576;  Contrato Definitivo ;  00507904;  13/05/2005;  25/02/1984;  06/07/2005 00:00:00; Sul America Futebol Clube / ES
+Robsandro Alves Gomes;  174569;  Contrato Definitivo ;  00507900;  05/05/2005;  12/07/1981;  06/07/2005 00:00:00; Sociedade Esportiva Alfredense / ES
+Wellington Taurino Nunes;  174568;  Contrato Definitivo ;  00507897;  16/05/2005;  05/11/1975;  06/07/2005 00:00:00; Sociedade Esportiva Alfredense / ES
+Tiago Passamani Goncalves;  174566;  Contrato Definitivo ;  00507899;  05/05/2005;  20/05/1983;  06/07/2005 00:00:00; Sociedade Esportiva Alfredense / ES
+Frankle Luiz Merlo;  174565;  Contrato Definitivo ;  00507757;  11/05/2005;  03/02/1979;  06/07/2005 00:00:00; Esporte Clube Guanduense / ES
+Joanes do Amaral;  174529;  Contrato Definitivo ;  00505891;  02/05/2005;  30/01/1986;  06/07/2005 00:00:00; Prudentopolis Esporte Clube / PR
+Robson Luiz Colman;  174526;  Contrato Definitivo ;  00505838;  06/05/2005;  05/06/1984;  06/07/2005 00:00:00; Cascavel Cr / PR
+James William Souza Sbravatti;  174521;  Contrato Definitivo ;  00471127;  01/06/2005;  05/01/1986;  06/07/2005 00:00:00; Sociedade Desportiva Yuracan F / MG
+Flavio Firmiano dos Santos;  174519;  Contrato Definitivo ;  00471129;  01/06/2005;  01/07/1980;  06/07/2005 00:00:00; Sociedade Desportiva Yuracan F / MG
+Gleidson Pereira Carmielli;  174517;  Contrato Definitivo ;  00471407;  01/06/2005;  20/11/1985;  06/07/2005 00:00:00; Sociedade Desportiva Yuracan F / MG
+Lucas Alberto Diana Ciampi;  174516;  Contrato Definitivo ;  00430310;  01/06/2005;  20/09/1982;  06/07/2005 00:00:00; Sociedade Desportiva Yuracan F / MG
+Josemilson Gomes Florentino;  174515;  Contrato Definitivo ;  00466267;  17/05/2005;  23/04/1981;  06/07/2005 00:00:00; Ferroviario Esporte Clube / PE
+Clayvman Roosvelt Duarte E Silva;  174514;  Contrato Definitivo ;  00466480;  24/05/2005;  02/03/1986;  06/07/2005 00:00:00; Ibis / PE
+Ricardo Firmino Barbosa;  174513;  Contrato Definitivo ;  00466479;  24/05/2005;  19/11/1985;  06/07/2005 00:00:00; Ibis / PE
+Bruno Cavalcante de Sousa Sales;  174510;  Contrato Definitivo ;  00463814;  15/04/2005;  22/07/1985;  06/07/2005 00:00:00; Boa Viagem / CE
+Julio Cesar Cavalcante da Silva;  174508;  Contrato Definitivo ;  00463798;  15/04/2005;  03/08/1980;  06/07/2005 00:00:00; Boa Viagem / CE
+Alex Vitor Cassilhas Abreu;  174504;  Contrato Definitivo ;  00507901;  05/05/2005;  15/02/1982;  06/07/2005 00:00:00; Sociedade Esportiva Alfredense / ES
+Jader Ferreira Paulino;  174503;  Contrato Definitivo ;  00507895;  05/05/2005;  23/01/1984;  06/07/2005 00:00:00; Sociedade Esportiva Alfredense / ES
+Alonso Pestana Andrade;  174502;  Contrato Definitivo ;  00505622;  13/05/2005;  01/10/1981;  06/07/2005 00:00:00; Sul America Futebol Clube / ES
+Tassio Simoes de Nadai;  174501;  Contrato Definitivo ;  00507885;  05/05/2005;  25/01/1985;  06/07/2005 00:00:00; Sociedade Esportiva Alfredense / ES
+Eriki Lopes Gaigher;  174500;  Contrato Definitivo ;  00507878;  05/05/2005;  16/02/1987;  06/07/2005 00:00:00; Sociedade Esportiva Alfredense / ES
+Joao do Carmo Laureano;  174499;  Contrato Definitivo ;  00507896;  05/05/2005;  22/06/1982;  06/07/2005 00:00:00; Sociedade Esportiva Alfredense / ES
+Patrick dos Santos Rossi;  174498;  Contrato Definitivo ;  00507891;  05/05/2005;  16/01/1986;  06/07/2005 00:00:00; Sociedade Esportiva Alfredense / ES
+Wagner Andrade Matos;  174496;  Contrato Definitivo ;  00507879;  05/05/2005;  02/07/1981;  06/07/2005 00:00:00; Sociedade Esportiva Alfredense / ES
+Erlon Carlos Rangel da Silva;  174495;  Contrato Definitivo ;  00507893;  05/05/2005;  17/05/1983;  06/07/2005 00:00:00; Sociedade Esportiva Alfredense / ES
+Messias Jose Matos Alves;  174494;  Contrato Definitivo ;  00507886;  05/05/2005;  28/04/1981;  06/07/2005 00:00:00; Sociedade Esportiva Alfredense / ES
+Erivelto Belique Grasse;  174492;  Contrato Definitivo ;  00507880;  05/05/2005;  08/10/1983;  06/07/2005 00:00:00; Sociedade Esportiva Alfredense / ES
+Mateus Andrade de Jesus;  174491;  Contrato Definitivo ;  00507882;  05/05/2005;  14/04/1986;  06/07/2005 00:00:00; Sociedade Esportiva Alfredense / ES
+Jeferson Vitoria dos Santos;  174490;  Contrato Definitivo ;  00507892;  05/05/2005;  12/03/1983;  06/07/2005 00:00:00; Sociedade Esportiva Alfredense / ES
+Raphael Oliveira Alvarez;  170694;  Contrato Definitivo ;  00509832;  30/05/2005;  13/02/1985;  06/07/2005 00:00:00; Artsul Futebol Clube Ltda / RJ
+Helcio Roberto Alisk;  105476;  Contrato Definitivo ;  00518568;  23/06/2005;  03/08/1969;  06/07/2005 00:00:00; Villa Nova A.c. / MG
+Lucas Diniz Paiva;  174522;  Vinculo Encerrado ;  20374;  ;  19/01/1984;  06/07/2005 00:00:00; Atletico Patrocinense / MG
+Paulo Rogerio dos Anjos Ribeiro;  174497;  Vinculo Encerrado ;  20371;  ;  06/05/1978;  06/07/2005 00:00:00; Sociedade Esportiva Alfredense / ES
+Jeferson Partelli Mello de Paula;  174493;  Vinculo Desfeito ;  20370;  ;  08/01/1984;  06/07/2005 00:00:00; Sociedade Esportiva Alfredense / ES
+Domingos Moreira Neto;  142809;  Vinculo Encerrado ;  19018;  ;  16/04/1980;  06/07/2005 00:00:00; Colinas Esporte Clube / TO
+Paulo Eduardo Voltolini Faigel;  138292;  Vinculo Encerrado ;  18925;  ;  11/08/1978;  06/07/2005 00:00:00; Associacao Atletica Batistense de Futebol / SC
+Andre Luis Leite;  160781;  Contrato Emprestimo ;  518597;  21/06/2005;  19/02/1986;  05/07/2005 00:00:00; Uberlândia / MG
+Thiago Ribeiro Cardoso;  164974;  Rescisão ;  43264411000;  ;  24/02/1986;  05/07/2005 00:00:00; Rio Branco / SP
+Washigton Ludugerio Assis;  169482;  Contrato Definitivo ;  ;  05/07/2005;  23/02/1986;  05/07/2005 00:00:00; Confronto Temp. / 00
+Paulo Candido Serafim da Cruz;  165334;  Contrato Definitivo ;  00518737;  05/07/2005;  26/12/1984;  05/07/2005 00:00:00; América / MG
+Charles Souza Chad;  149756;  Contrato Definitivo ;  ;  05/07/2005;  31/12/1981;  05/07/2005 00:00:00; Confronto Temp. / 00
+Robson Severino da Silva;  155222;  Contrato Definitivo ;  ;  05/07/2005;  10/07/1983;  05/07/2005 00:00:00; Mogi Mirim / SP
+Silvio Junior dos Santos Roque;  174660;  Contrato Definitivo ;  00491031;  02/06/2005;  23/04/1984;  05/07/2005 00:00:00; Fernandopolis / SP
+Cristiano dos Santos;  174451;  Contrato Definitivo ;  00484976;  30/05/2005;  26/09/1986;  05/07/2005 00:00:00; Tupa Fc / SP
+Jose Pedro do Nascimento Filh;  98405;  Contrato Definitivo ;  00509188;  08/06/2005;  20/02/1967;  05/07/2005 00:00:00; Bandeirante Futebol Clube / AL
+Rossini Coelho Salomao;  174677;  Contrato Definitivo ;  00490957;  11/05/2005;  19/12/1984;  05/07/2005 00:00:00; Paraguacuense / SP
+Douglas Soares da Silva;  174675;  Contrato Definitivo ;  00491098;  21/05/2005;  01/09/1985;  05/07/2005 00:00:00; Xv de Novemb.sp / SP
+Felipe Josue Pereira;  174662;  Contrato Definitivo ;  00486469;  01/06/2005;  07/10/1984;  05/07/2005 00:00:00; Esporte Clube Osasco / SP
+Lucas Messias Ribeiro;  174658;  Contrato Definitivo ;  00484713;  31/05/2005;  05/05/1985;  05/07/2005 00:00:00; Pinhelense / SP
+Eduardo Caetano Vicente;  174657;  Contrato Definitivo ;  00474682;  31/05/2005;  16/03/1985;  05/07/2005 00:00:00; Pinhelense / SP
+Robson Bertini Romero;  174655;  Contrato Definitivo ;  00484716;  31/05/2005;  27/12/1984;  05/07/2005 00:00:00; Pinhelense / SP
+Ednilson Garcia;  174653;  Contrato Definitivo ;  00490861;  03/06/2005;  04/03/1984;  05/07/2005 00:00:00; Tanabi Ec / SP
+Rodrigo Fernandes Heleno;  174650;  Contrato Definitivo ;  00496000;  01/06/2005;  02/04/1984;  05/07/2005 00:00:00; Nova Odessa Atletico Clube / SP
+Gilvan Rosa Silva;  174649;  Contrato Definitivo ;  00495999;  01/06/2005;  08/12/1980;  05/07/2005 00:00:00; Nova Odessa Atletico Clube / SP
+Joao Amaral de Jesus Filho;  174648;  Contrato Definitivo ;  00496001;  01/06/2005;  23/11/1984;  05/07/2005 00:00:00; Nova Odessa Atletico Clube / SP
+Marcos Antonio de Jesus;  174646;  Contrato Definitivo ;  00484853;  02/06/2005;  18/11/1982;  05/07/2005 00:00:00; Barcelona / SP
+Marcelo Donizete da Silva;  174644;  Contrato Definitivo ;  00486120;  12/05/2005;  28/01/1985;  05/07/2005 00:00:00; Lencoense / SP
+Evandro Rogerio Pereira;  174643;  Contrato Definitivo ;  00486116;  02/06/2005;  17/02/1983;  05/07/2005 00:00:00; Lencoense / SP
+Anderson Luiz de Souza;  174642;  Contrato Definitivo ;  00490805;  23/05/2005;  08/08/1984;  05/07/2005 00:00:00; Itapevi Futebol Clube / SP
+Klauber Roberto Salvador Bertero;  174639;  Contrato Definitivo ;  00485032;  01/06/2005;  23/01/1981;  05/07/2005 00:00:00; Tupa Fc / SP
+Leonardo de Araujo Nascimento;  174638;  Contrato Definitivo ;  00484645;  09/05/2005;  18/08/1905;  05/07/2005 00:00:00; Tupa Fc / SP
+Damiao Barbosa Rodrigues de Oliveira;  174637;  Contrato Definitivo ;  00484977;  03/06/2005;  19/03/1982;  05/07/2005 00:00:00; Tupa Fc / SP
+Gilmario Rios de Oliveira;  174636;  Contrato Definitivo ;  00485099;  02/06/2005;  28/07/1983;  05/07/2005 00:00:00; Xv de Novemb.sp / SP
+Luiz Fernando da Silva;  174631;  Contrato Definitivo ;  00470669;  07/06/2005;  25/05/1981;  05/07/2005 00:00:00; Sociedade Desportiva Yuracan F / MG
+Diego Torin;  174628;  Contrato Definitivo ;  00509257;  07/06/2005;  04/07/1985;  05/07/2005 00:00:00; Sociedade Desportiva Yuracan F / MG
+Yuri Carneiro Monteiro;  174620;  Contrato Definitivo ;  00485351;  01/06/2005;  09/05/1984;  05/07/2005 00:00:00; Terra E Mar Clube / CE
+Luiz Antonio Ximenes Soares;  174619;  Contrato Definitivo ;  00485274;  01/06/2005;  05/11/1960;  05/07/2005 00:00:00; Terra E Mar Clube / CE
+Caio Cesarde Paula;  174613;  Contrato Definitivo ;  00500616;  01/06/2005;  16/03/1987;  05/07/2005 00:00:00; Paracatu / DF
+Lucas Mendes Silva;  174611;  Contrato Definitivo ;  00507130;  01/06/2005;  21/08/1986;  05/07/2005 00:00:00; Paracatu / DF
+Rene Silva de Bittencourt Jr;  174608;  Contrato Definitivo ;  00506828;  21/05/2005;  08/12/1986;  05/07/2005 00:00:00; Sobradinho (df) / DF
+Gabino Marques de Sousa;  174462;  Contrato Definitivo ;  00500411;  20/04/2005;  21/09/1986;  05/07/2005 00:00:00; Trairiense / CE
+Jose Vando Ribeiro Sousa;  174461;  Contrato Definitivo ;  00500327;  01/05/2005;  22/11/1985;  05/07/2005 00:00:00; Terra E Mar Clube / CE
+Francisco Demontie Araujo Maciel;  174460;  Contrato Definitivo ;  00463801;  15/04/2005;  23/11/1983;  05/07/2005 00:00:00; Boa Viagem / CE
+Edilberto Vieira Rodrigues;  174459;  Contrato Definitivo ;  00463810;  15/04/2005;  31/01/1976;  05/07/2005 00:00:00; Boa Viagem / CE
+Glauton Costa Cunha;  174458;  Contrato Definitivo ;  00463808;  15/04/2005;  23/04/1978;  05/07/2005 00:00:00; Boa Viagem / CE
+Helmo da Silva Melo;  174457;  Contrato Definitivo ;  00463811;  15/04/2005;  11/02/1984;  05/07/2005 00:00:00; Boa Viagem / CE
+Francimar Lobo Filho;  174455;  Contrato Definitivo ;  00463802;  15/04/2005;  06/07/1985;  05/07/2005 00:00:00; Boa Viagem / CE
+Rodrigo Tortato;  174452;  Contrato Definitivo ;  00432344;  30/05/2005;  01/11/1980;  05/07/2005 00:00:00; Cats / SP
+Eduardo do Prado Vergueiro;  174450;  Contrato Definitivo ;  00474789;  31/05/2005;  31/05/1985;  05/07/2005 00:00:00; São José / SP
+Rafael Hemberto Inacio;  174449;  Contrato Definitivo ;  00486552;  13/05/2005;  24/10/1983;  05/07/2005 00:00:00; São José dos Campos Futebol Clube / SP
+Jose Rogerio da Silva Araujo;  174438;  Contrato encerrado ;  00500483;  20/04/2005;  21/01/1980;  05/07/2005 00:00:00; Maranguape Futebol Clube / CE
+Francisco Stenio Cavalcante Filh;  174437;  Contrato encerrado ;  00500488;  20/04/2005;  06/02/1985;  05/07/2005 00:00:00; Maranguape Futebol Clube / CE
+Adriano da Silva Nobre;  174436;  Contrato Definitivo ;  00463871;  20/04/2005;  08/03/1979;  05/07/2005 00:00:00; Maranguape Futebol Clube / CE
+Juliano da Silva Alves;  174435;  Contrato Definitivo ;  00500486;  20/04/2005;  09/08/1984;  05/07/2005 00:00:00; Maranguape Futebol Clube / CE
+Francisco Costa de Sales;  174431;  Contrato Definitivo ;  00463812;  15/04/2005;  29/08/1984;  05/07/2005 00:00:00; Boa Viagem / CE
+Rene Williams Benjamin dos Santos;  174383;  Contrato Definitivo ;  00473638;  10/04/2005;  28/03/1984;  05/07/2005 00:00:00; River Esporte Clube / RR
+Douglas Mota Neres;  174350;  Contrato Definitivo ;  00500345;  11/05/2005;  27/01/1986;  05/07/2005 00:00:00; Terra E Mar Clube / CE
+Marco Antonio da Silva Virgens Rodrigues;  174128;  Contrato Definitivo ;  00489488;  03/05/2005;  31/10/1982;  05/07/2005 00:00:00; Vec / RO
+Syllan Marlon dos Santos Ramos;  171576;  Contrato Definitivo ;  00500065;  28/05/2005;  17/08/1984;  05/07/2005 00:00:00; Cristal / AP
+Luiz Carlos Farias Junior;  171183;  Contrato Definitivo ;  00499995;  28/05/2005;  01/10/1984;  05/07/2005 00:00:00; Amapa / AP
+Fernando Brito de Oiveira;  171176;  Contrato Definitivo ;  00500016;  28/05/2005;  20/04/1981;  05/07/2005 00:00:00; Amapa / AP
+Glauber Macedo Frazao;  171168;  Contrato Definitivo ;  00500009;  28/05/2005;  25/09/1979;  05/07/2005 00:00:00; Amapa / AP
+Bruno Ferreira Lemos;  169093;  Contrato Definitivo ;  00502667;  16/05/2005;  11/07/1981;  05/07/2005 00:00:00; Flamengo / PI
+Igor Meireles Roriz;  166874;  Contrato Definitivo ;  00506912;  03/06/2005;  05/08/1986;  05/07/2005 00:00:00; Luziânia / DF
+Maycon Roberto Quirino;  160979;  Contrato Definitivo ;  00507766;  11/06/2005;  25/06/1982;  05/07/2005 00:00:00; Esporte Clube Guanduense / ES
+Moises dos Santos Reis;  148303;  Contrato Definitivo ;  00463803;  20/04/2005;  10/12/1977;  05/07/2005 00:00:00; Boa Viagem / CE
+Francisco Cleuber Lima Pereira;  127773;  Contrato Definitivo ;  00502676;  03/05/2005;  08/04/1976;  05/07/2005 00:00:00; 4 de Julho E.c. / PI
+Jose Wanderley Pereira da Silva;  124272;  Contrato encerrado ;  00468765;  04/01/2005;  24/04/1974;  05/07/2005 00:00:00; Goiania / GO
+Silvio Junior dos Santos Roque;  174660;  Vinculo Encerrado ;  20378;  ;  23/04/1984;  05/07/2005 00:00:00; Fernandopolis / SP
+Cristiano dos Santos;  174451;  Vinculo Encerrado ;  20368;  ;  26/09/1986;  05/07/2005 00:00:00; Tupa Fc / SP
+Antonio Mendonca da Silva Filho;  174609;  Contrato Definitivo ;  00506833;  20/05/2005;  25/06/1987;  05/07/2005 00:00:00; Cruzeiro Futebol Clube / DF
+Diego Henrique da Silva;  155779;  Contrato Definitivo ;  00484640;  18/05/2005;  07/03/1982;  04/07/2005 00:00:00; São Carlos / SP
+Walber Teixeira Cotta;  125328;  Contrato Definitivo ;  00509226;  21/04/2005;  17/06/1975;  04/07/2005 00:00:00; Democrata / MG
+Jose Mendes de Morais Neto;  99705;  Contrato Definitivo ;  00502679;  11/05/2005;  01/01/1966;  04/07/2005 00:00:00; 4 de Julho E.c. / PI
+Ariovaldo Almeida Costa;  98049;  Contrato Definitivo ;  00484516;  20/03/2005;  17/12/1968;  04/07/2005 00:00:00; Clube de Esportes Uniao / MS
+Paulo Roberto Ferreira da Silva;  175120;  Contrato Definitivo ;  00509169;  27/06/2005;  28/10/1985;  04/07/2005 00:00:00; Crb / AL
+Denyson Soares Souza;  174623;  Contrato Definitivo ;  00499712;  02/06/2005;  08/07/1982;  04/07/2005 00:00:00; Sociedade Desportiva Penedense / AL
+Cristiano Soares de Medeiros;  174470;  Contrato Definitivo ;  00480236;  05/05/2005;  30/04/1986;  04/07/2005 00:00:00; Paranoa Esporte Clube / DF
+Clebeval Maracaipe Dias;  174469;  Contrato Definitivo ;  00507153;  05/05/2005;  13/08/1986;  04/07/2005 00:00:00; Paranoa Esporte Clube / DF
+Roney Antonio de Lima;  174447;  Contrato Definitivo ;  00492240;  15/05/2005;  13/03/1972;  04/07/2005 00:00:00; Clube Recreativo Maravilha / SC
+Gustavo Alexandre dos Santos;  174445;  Contrato Definitivo ;  00492294;  17/05/2005;  31/10/1985;  04/07/2005 00:00:00; Chapecoense / SC
+Alessandro Trindade;  174403;  Contrato Definitivo ;  00491988;  01/05/2005;  15/12/1984;  04/07/2005 00:00:00; Concordia Atletico Clube / SC
+Elson Jacinto da Silva;  174399;  Contrato Definitivo ;  00466272;  23/05/2005;  28/07/1984;  04/07/2005 00:00:00; Ferroviario Esporte Clube / PE
+Gustavo Lopes de Sa;  174398;  Contrato Definitivo ;  00466269;  17/05/2005;  10/03/1985;  04/07/2005 00:00:00; Ferroviario Esporte Clube / PE
+Geanderson Anunciacao Pereira;  174395;  Contrato Definitivo ;  00483803;  19/05/2005;  08/10/1985;  04/07/2005 00:00:00; Catuense / BA
+Rafael Celio de Lima Souza;  174387;  Contrato Definitivo ;  00456997;  10/05/2005;  29/12/1983;  04/07/2005 00:00:00; Vasco / AC
+Raimundo Angel de Oliveira;  174386;  Contrato Definitivo ;  00457094;  27/04/2005;  05/11/1981;  04/07/2005 00:00:00; Atlético / AC
+Thiago Araujo;  171766;  Contrato Definitivo ;  00490543;  11/05/2005;  31/03/1983;  04/07/2005 00:00:00; Itapevi Futebol Clube / SP
+Douglas de Oliveira Laguardo;  171641;  Contrato Definitivo ;  00484465;  17/03/2005;  23/01/1988;  04/07/2005 00:00:00; Futebol Clube do Porto / MS
+Marcos Fabio de Oliveira Lopes;  171640;  Contrato Definitivo ;  00484466;  17/03/2005;  10/06/1983;  04/07/2005 00:00:00; Futebol Clube do Porto / MS
+Wesley Samuel Bentos da Costa;  171615;  Contrato Definitivo ;  00483010;  29/03/2005;  16/07/1984;  04/07/2005 00:00:00; Associacao Atletica Portuguesa / MS
+Valcinei Vargas;  171602;  Contrato Definitivo ;  00484459;  17/03/2005;  25/05/1965;  04/07/2005 00:00:00; Futebol Clube do Porto / MS
+Wagner da Silva;  171600;  Contrato Definitivo ;  00484468;  10/03/2005;  01/06/1978;  04/07/2005 00:00:00; Futebol Clube do Porto / MS
+Nilton Cantero Gonzalez;  171593;  Contrato Definitivo ;  00484464;  17/03/2005;  02/04/1987;  04/07/2005 00:00:00; Futebol Clube do Porto / MS
+Marcelo Avalo Espinoza;  171586;  Contrato Definitivo ;  00484463;  17/03/2005;  15/04/1988;  04/07/2005 00:00:00; Futebol Clube do Porto / MS
+Deolindo Maria de Jesus Neto;  171488;  Contrato encerrado ;  00483296;  01/04/2005;  07/08/1985;  04/07/2005 00:00:00; Moreninhas / MS
+Thiago Silva Dias;  171249;  Contrato encerrado ;  00422918;  10/05/2005;  23/05/1984;  04/07/2005 00:00:00; Barcelona / SP
+Anderson Santos Rufino;  171162;  Contrato Definitivo ;  00508059;  19/04/2005;  17/01/1983;  04/07/2005 00:00:00; Associacao Atletica Portuguesa / MS
+Alexandre Simabuco;  171157;  Contrato Definitivo ;  00483024;  29/03/2005;  21/10/1977;  04/07/2005 00:00:00; Associacao Atletica Portuguesa / MS
+Fabricio de Araujo;  169291;  Contrato Definitivo ;  00505661;  22/06/2005;  13/05/1985;  04/07/2005 00:00:00; Esporte Clube Guanduense / ES
+Felipe Laura Andreani Barbosa;  168338;  Contrato Definitivo ;  00508088;  18/04/2005;  27/05/1986;  04/07/2005 00:00:00; Moreninhas / MS
+Adauto de Souza Gomes Junior;  167518;  Contrato Definitivo ;  00496058;  12/05/2005;  21/04/1985;  04/07/2005 00:00:00; Guaruja / SP
+Antenor de Aquino Alegre;  167436;  Contrato Definitivo ;  00484972;  30/05/2005;  18/08/1983;  04/07/2005 00:00:00; Tupa Fc / SP
+Demontier Cordeiro Marcelino;  163538;  Contrato Definitivo ;  00485217;  19/05/2005;  29/11/1983;  04/07/2005 00:00:00; Crato Esporte Clube / CE
+Francisco Gelson Elias da Silva;  162593;  Contrato encerrado ;  00484136;  26/03/2005;  24/07/1973;  04/07/2005 00:00:00; Coxim Atletico Clube / MS
+Claudinei Silva Caldas;  162587;  Contrato encerrado ;  00483313;  01/04/2005;  08/08/1982;  04/07/2005 00:00:00; Coxim Atletico Clube / MS
+Sidnei Silva Caldas;  162586;  Contrato encerrado ;  00483306;  07/03/2005;  12/10/1980;  04/07/2005 00:00:00; Coxim Atletico Clube / MS
+Antonio Marcos Elandino Goncalo;  161772;  Contrato Definitivo ;  00507912;  31/05/2005;  14/02/1978;  04/07/2005 00:00:00; Sul America Futebol Clube / ES
+Rodolfo Gornero Rezende;  161562;  Contrato Definitivo ;  00484724;  20/06/2005;  30/06/1984;  04/07/2005 00:00:00; Ituano / SP
+Alessandro Santos Pio;  160935;  Contrato Definitivo ;  00477425;  20/04/2005;  19/07/1982;  04/07/2005 00:00:00; Costa Rica Esporte Clube / MS
+Cleosmar Simao Garcez;  159509;  Contrato Definitivo ;  00508060;  19/04/2005;  27/06/1980;  04/07/2005 00:00:00; Associacao Atletica Portuguesa / MS
+Everton Lisboa Osorio;  157778;  Contrato encerrado ;  00483300;  01/04/2005;  04/03/1984;  04/07/2005 00:00:00; Moreninhas / MS
+Jose Barbosa Neto;  154258;  Contrato encerrado ;  00483302;  01/04/2005;  16/09/1979;  04/07/2005 00:00:00; Moreninhas / MS
+Michael Pedro Capecci;  149513;  Contrato Definitivo ;  00508087;  20/04/2005;  09/05/1983;  04/07/2005 00:00:00; Moreninhas / MS
+Francisco Carlos Cassamassimo;  149501;  Contrato Definitivo ;  00475160;  22/05/2005;  20/08/1983;  04/07/2005 00:00:00; Futebol Clube do Porto / MS
+Anderson Gonzaga de Oliveira;  149014;  Contrato Definitivo ;  00484951;  27/05/2005;  25/03/1982;  04/07/2005 00:00:00; Comercial Ec / SP
+Claudiney Ferreira dos Santos;  144248;  Contrato Definitivo ;  00484511;  20/03/2005;  04/07/1981;  04/07/2005 00:00:00; Clube de Esportes Uniao / MS
+Carlos Renato de Carvalho;  143913;  Contrato Definitivo ;  00468639;  29/03/2005;  27/01/1981;  04/07/2005 00:00:00; Clube de Esportes Uniao / MS
+Adilton Barbosa Mota;  140610;  Contrato encerrado ;  00483285;  01/04/2005;  06/10/1980;  04/07/2005 00:00:00; Moreninhas / MS
+Sandro Jose dos Santos;  135324;  Contrato encerrado ;  00484130;  04/03/2005;  24/03/1977;  04/07/2005 00:00:00; Coxim Atletico Clube / MS
+Jose Luis Cardoso;  134746;  Contrato encerrado ;  00508025;  01/04/2005;  27/11/1971;  04/07/2005 00:00:00; Moreninhas / MS
+Pedro Domingos Faustino de Oliveira;  134730;  Contrato Definitivo ;  00469066;  20/03/2005;  12/11/1972;  04/07/2005 00:00:00; Clube de Esportes Uniao / MS
+Josimar Crespan;  134638;  Contrato encerrado ;  00481191;  18/03/2005;  25/09/1975;  04/07/2005 00:00:00; 7 de Setembro / MS
+Adailton Roberto Teixeira;  123083;  Contrato Definitivo ;  00468737;  20/03/2005;  27/11/1966;  04/07/2005 00:00:00; Clube de Esportes Uniao / MS
+Diego Henrique da Silva;  155779;  Vinculo Desfeito ;  19407;  ;  07/03/1982;  04/07/2005 00:00:00; São Carlos / SP
+Walber Teixeira Cotta;  125328;  Vinculo Encerrado ;  18650;  ;  17/06/1975;  04/07/2005 00:00:00; Democrata / MG
+Jefferson Jose Moreira;  174390;  Contrato Definitivo ;  00503057;  10/05/2005;  08/01/1987;  04/07/2005 00:00:00; Madureira / RJ
+William Souza da Silva;  174388;  Contrato Definitivo ;  00489375;  12/05/2005;  29/09/1986;  04/07/2005 00:00:00; Nova Iguaçu / RJ
+Jose Rodolpho Machado da Silva;  157836;  Contrato Definitivo ;  00451154;  01/07/2005;  15/05/1984;  04/07/2005 00:00:00; Juventude / RS
+Diogo Jefferson Mendes de Melo;  161835;  Contrato Definitivo ;  ;  02/07/2005;  18/04/1984;  02/07/2005 00:00:00; Confronto Temp. / 00
+Jefferson da Silva Nascimento;  169827;  Contrato Definitivo ;  ;  02/07/2005;  29/06/1986;  02/07/2005 00:00:00; Clube Andraus Brasil Ltda / PR
+Alexsandro Carvalho Lopes;  160326;  Contrato Emprestimo ;  00501123;  01/07/2005;  30/04/1985;  01/07/2005 00:00:00; Maranguape Futebol Clube / CE
+Marco Aurelio Iubel;  161657;  Contrato Definitivo ;  00508567;  01/07/2005;  07/08/1986;  01/07/2005 00:00:00; J. Malucelli / PR
+Paulo Jose de Oliveira;  168381;  Contrato Definitivo ;  ;  01/07/2005;  09/03/1986;  01/07/2005 00:00:00; Palmeiras / SP
+Magno Batista da Silva;  175170;  Contrato Definitivo ;  00487653;  01/07/2005;  21/09/1985;  01/07/2005 00:00:00; Confiança / SE
+Diego Gama de Oliveira;  158632;  Contrato Definitivo ;  ;  01/07/2005;  06/05/1983;  01/07/2005 00:00:00; Confronto Temp. / 00
+Bruno Rangel Domingues;  158402;  Contrato Definitivo ;  00505307;  01/07/2005;  11/12/1981;  01/07/2005 00:00:00; Americano / RJ
+Augusto Cesar Gomes de Santana;  169975;  Contrato Definitivo ;  ;  01/07/2005;  13/06/1981;  01/07/2005 00:00:00; Confronto Temp. / 00
+Flavio Alex Valencio;  149502;  Contrato Definitivo ;  508596;  01/07/2005;  27/07/1983;  01/07/2005 00:00:00; Paraná / PR
+Gilson do Amaral;  165040;  Contrato Emprestimo ;  00484731;  01/07/2005;  04/04/1984;  01/07/2005 00:00:00; América / SP
+Sergio Custodio de Oliveira Junior;  175285;  Contrato Definitivo ;  00485112;  01/07/2005;  13/04/1987;  01/07/2005 00:00:00; Nacional Atletico Clube / SP
+Andre Luiz Rodrigues Lopes;  160384;  Contrato Definitivo ;  00450963;  01/07/2005;  15/02/1985;  01/07/2005 00:00:00; Rs Fc / RS
+Waldison Rodrigues de Souza;  161325;  Contrato Emprestimo ;  ;  01/07/2005;  17/06/1984;  01/07/2005 00:00:00; Canoas Sport Club / RS
+Bruno Menezes Soares;  163448;  Contrato Definitivo ;  ;  01/07/2005;  02/02/1983;  01/07/2005 00:00:00; Londrina / PR
+Hugo Guimaraes Silva Santos Almeida;  162026;  Contrato Definitivo ;  ;  01/07/2005;  06/01/1986;  01/07/2005 00:00:00; Cbf - Atleta Sem Clube / 00
+Lourival Junior de Araujo Lopes;  168670;  Contrato Definitivo ;  ;  01/07/2005;  19/10/1987;  01/07/2005 00:00:00; Noroeste / SP
+Bruno Cesar Correa;  175422;  Contrato Definitivo ;  ;  01/07/2005;  22/03/1986;  01/07/2005 00:00:00; Rio Branco / SP
+Joao Gleuber Mendes Crisostomo;  174421;  Contrato Definitivo ;  00470890;  18/05/2005;  20/06/1987;  01/07/2005 00:00:00; Pirapora Futebol Clube / MG
+Marcilio Alonso de Almeida;  174417;  Contrato encerrado ;  00511169;  17/05/2005;  08/11/1979;  01/07/2005 00:00:00; Uniao de Futebol Araxa / MG
+Marcos Maximo Casagrande;  174404;  Contrato Definitivo ;  00492202;  01/05/2005;  08/04/1987;  01/07/2005 00:00:00; Academia de Futebol Sport Brasil Ltda./sc / SC
+Geferson Vincensi;  97392;  Contrato Definitivo ;  00481488;  25/03/2005;  18/11/1970;  01/07/2005 00:00:00; Associacao Riobrilhantense De / MS
+Rodrigo Moura Torres;  174479;  Contrato Definitivo ;  00506858;  17/05/2005;  07/09/1986;  01/07/2005 00:00:00; Ceilândia / DF
+Domingos Leandro dos Santos;  174474;  Contrato Definitivo ;  00470024;  01/05/2005;  13/07/1986;  01/07/2005 00:00:00; Luziânia / DF
+Rainer Santos de Oliveira;  174425;  Contrato Definitivo ;  00511211;  11/05/2005;  03/11/1979;  01/07/2005 00:00:00; A.c.t.c........ / MG
+Rafael Molina Leite;  174424;  Contrato Definitivo ;  00511286;  23/05/2005;  05/10/1984;  01/07/2005 00:00:00; A.c.t.c........ / MG
+Eduardo Pio de Azevedo Filho;  174423;  Contrato Definitivo ;  00511212;  11/05/2005;  04/04/1981;  01/07/2005 00:00:00; A.c.t.c........ / MG
+Ednilson Rodrigues Barboza;  174419;  Contrato Definitivo ;  00470887;  18/05/2005;  06/02/1987;  01/07/2005 00:00:00; Pirapora Futebol Clube / MG
+Alex Santos Silveira;  174418;  Contrato Definitivo ;  00511289;  25/05/2005;  22/07/1984;  01/07/2005 00:00:00; Atletico Patrocinense / MG
+Jose de Menezes Soares Neto;  174416;  Contrato Definitivo ;  00511136;  10/05/2005;  11/11/1981;  01/07/2005 00:00:00; Olimpic Club / MG
+Fabio Pinheiro Cardozo;  174415;  Contrato Definitivo ;  00500911;  02/05/2005;  28/06/1985;  01/07/2005 00:00:00; Esporte Clube Guanduense / ES
+Robison dos Santos Danielski;  174407;  Contrato Definitivo ;  00492186;  01/05/2005;  30/08/1985;  01/07/2005 00:00:00; Academia de Futebol Sport Brasil Ltda./sc / SC
+Allan Brazil de Souza E Silva;  174401;  Contrato Definitivo ;  00499765;  10/05/2005;  23/07/1986;  01/07/2005 00:00:00; Sul América / AM
+Marcos Vinicius de Freitas Morais;  174025;  Contrato encerrado ;  00457153;  21/04/2005;  23/12/1984;  01/07/2005 00:00:00; Independenc. / AC
+Guilherme Felipe Miguel;  171879;  Contrato Definitivo ;  00491998;  01/06/2005;  02/08/1983;  01/07/2005 00:00:00; Internacional / SC
+Antonio Cleber Gimenes de Freitas;  171671;  Contrato Definitivo ;  00481485;  25/03/2005;  14/09/1975;  01/07/2005 00:00:00; Associacao Riobrilhantense De / MS
+Samuel Jose Pereira;  171393;  Contrato Definitivo ;  00508058;  18/04/2005;  20/06/1986;  01/07/2005 00:00:00; Ec Campo Grande / MS
+Alan Rodrigues Santos;  171388;  Contrato Definitivo ;  00483029;  04/04/2005;  16/06/1986;  01/07/2005 00:00:00; Ec Campo Grande / MS
+Diego Marciel Cordeiro;  171382;  Contrato Definitivo ;  00483086;  04/04/2005;  20/02/1985;  01/07/2005 00:00:00; Ec Campo Grande / MS
+Rogerio Benites;  171379;  Contrato Definitivo ;  00483028;  04/04/2005;  22/11/1982;  01/07/2005 00:00:00; Ec Campo Grande / MS
+Edson Ortega da Silva;  171337;  Contrato Definitivo ;  00477503;  07/04/2005;  19/07/1982;  01/07/2005 00:00:00; Ec Campo Grande / MS
+Daniel Meireles dos Santos;  170732;  Contrato encerrado ;  00475481;  29/03/2005;  01/12/1980;  01/07/2005 00:00:00; Associacao Atletica Portuguesa / MS
+Edison Henrique Oliveira Rodrigues;  165770;  Contrato Definitivo ;  00490992;  01/06/2005;  23/11/1986;  01/07/2005 00:00:00; Cap / SP
+Rodrigo de Barros Costa;  162579;  Contrato encerrado ;  00483016;  29/03/2005;  31/10/1984;  01/07/2005 00:00:00; Associacao Atletica Portuguesa / MS
+Igor de Jesus Bernardo;  162571;  Contrato Definitivo ;  00508057;  18/04/2005;  25/10/1980;  01/07/2005 00:00:00; Ec Campo Grande / MS
+Antonio Foss Neto;  162569;  Contrato Definitivo ;  00483040;  04/04/2005;  25/06/1984;  01/07/2005 00:00:00; Ec Campo Grande / MS
+Zamarco Silva;  153995;  Contrato Definitivo ;  00483025;  24/03/2005;  22/03/1979;  01/07/2005 00:00:00; Associacao Atletica Portuguesa / MS
+Genivaldo Borgato Rosa;  152215;  Contrato Definitivo ;  00481490;  14/04/2005;  14/06/1980;  01/07/2005 00:00:00; Associacao Riobrilhantense De / MS
+Fabiano Nazare Candido de Barros;  152214;  Contrato Definitivo ;  00484508;  20/03/2005;  18/07/1977;  01/07/2005 00:00:00; Clube de Esportes Uniao / MS
+Eliel Borges;  150723;  Contrato Definitivo ;  00483031;  04/04/2005;  07/02/1981;  01/07/2005 00:00:00; Ec Campo Grande / MS
+Renato Coelho Tregnago;  149988;  Contrato Definitivo ;  00481460;  04/04/2005;  06/06/1980;  01/07/2005 00:00:00; Costa Rica Esporte Clube / MS
+Alan Crystian Fernandes da Silva;  149111;  Contrato Definitivo ;  01481217;  25/03/2005;  13/10/1983;  01/07/2005 00:00:00; Misto Esporte Clube / MS
+Juliano Fachiano Rodrigues;  140597;  Contrato Definitivo ;  00481494;  25/03/2005;  31/03/1981;  01/07/2005 00:00:00; Associacao Riobrilhantense De / MS
+Jose Carlos Sales de Oliveira;  140591;  Contrato Definitivo ;  00484512;  20/03/2005;  18/05/1973;  01/07/2005 00:00:00; Clube de Esportes Uniao / MS
+Ronaldo Ferraz Cardoso;  140590;  Contrato Definitivo ;  00508051;  18/04/2005;  15/01/1975;  01/07/2005 00:00:00; Clube de Esportes Uniao / MS
+Nilson de Souza Benites;  140510;  Contrato Definitivo ;  00481466;  04/04/2005;  08/06/1978;  01/07/2005 00:00:00; Costa Rica Esporte Clube / MS
+Alexandre Menezes da Costa;  135315;  Contrato Definitivo ;  00463874;  20/04/2005;  17/02/1978;  01/07/2005 00:00:00; Maranguape Futebol Clube / CE
+Marques Alves da Silva;  134744;  Contrato Definitivo ;  00481480;  23/03/2005;  02/01/1977;  01/07/2005 00:00:00; Associacao Riobrilhantense De / MS
+Gustavo Gadelha da Silva;  133080;  Contrato Definitivo ;  00463870;  20/04/2005;  23/04/1979;  01/07/2005 00:00:00; Maranguape Futebol Clube / CE
+Marcio Andre dos Santos;  130471;  Contrato Definitivo ;  00481511;  04/04/2005;  08/09/1976;  01/07/2005 00:00:00; Misto Esporte Clube / MS
+Denis Augusto da Silva;  130142;  Contrato Definitivo ;  00481495;  25/03/2005;  08/09/1976;  01/07/2005 00:00:00; Associacao Riobrilhantense De / MS
+Alex Barbosa Domingos;  129514;  Contrato Definitivo ;  00484134;  22/03/2005;  28/03/1978;  01/07/2005 00:00:00; Coxim Atletico Clube / MS
+Joao Cardoso da Silva Filho;  122849;  Contrato Definitivo ;  00508053;  18/04/2005;  26/05/1972;  01/07/2005 00:00:00; Clube de Esportes Uniao / MS
+Gilson Goncalves;  119463;  Contrato Definitivo ;  00484514;  20/03/2005;  19/01/1967;  01/07/2005 00:00:00; Clube de Esportes Uniao / MS
+Felix Ponce Ojeda;  118434;  Contrato Definitivo ;  00468638;  22/03/2005;  23/02/1965;  01/07/2005 00:00:00; Clube de Esportes Uniao / MS
+Alcir de Oliveira Fonseca;  117096;  Contrato Definitivo ;  00511243;  02/06/2005;  14/11/1977;  01/07/2005 00:00:00; América / MG
+Sergio Adriano Porfirio Batista;  113503;  Contrato Definitivo ;  00481509;  04/04/2005;  11/04/1971;  01/07/2005 00:00:00; Misto Esporte Clube / MS
+Roberto Carlos Ruiz Aristimunha;  113134;  Contrato Definitivo ;  00468640;  22/03/2005;  27/06/1972;  01/07/2005 00:00:00; Clube de Esportes Uniao / MS
+Joao Gleuber Mendes Crisostomo;  174421;  Vinculo Encerrado ;  20366;  ;  20/06/1987;  01/07/2005 00:00:00; Pirapora Futebol Clube / MG
+Marcilio Alonso de Almeida;  174417;  Vinculo Encerrado ;  20365;  ;  08/11/1979;  01/07/2005 00:00:00; Uniao de Futebol Araxa / MG
+Marcos Maximo Casagrande;  174404;  Vinculo Encerrado ;  20362;  ;  08/04/1987;  01/07/2005 00:00:00; Sociedade Esportiva E Recreativa Ipiranga-seri / SC
+Sergio Ismeleim Rodrigo do Nascimento Queiroz;  174477;  Contrato Definitivo ;  00470019;  01/05/2005;  06/06/1985;  01/07/2005 00:00:00; Luziânia / DF
+Ronaldo Batista da Silva;  174476;  Contrato Definitivo ;  00470021;  01/05/2005;  21/05/1985;  01/07/2005 00:00:00; Luziânia / DF
+Alexandre de Souza Marques;  174475;  Contrato Definitivo ;  00470025;  01/05/2005;  25/11/1986;  01/07/2005 00:00:00; Luziânia / DF
+William Matos da Silva;  174473;  Contrato Definitivo ;  00470017;  01/05/2005;  11/04/1986;  01/07/2005 00:00:00; Luziânia / DF
+Cassio Aparecido Cardoso de Paula;  174422;  Contrato Definitivo ;  00470885;  18/05/2005;  12/10/1986;  01/07/2005 00:00:00; Pirapora Futebol Clube / MG
+Sebastiao Marcelo Inacio Rodrigues;  174414;  Contrato Definitivo ;  00505657;  09/05/2005;  07/03/1984;  01/07/2005 00:00:00; Esporte Clube Guanduense / ES

@@ -1,0 +1,82 @@
+Jogador; Inscricao; Contrato; N; Inicio; Nascimento; dt_inscricao; clube
+Jogador; Inscricao; Contrato; N; Inicio; Nascimento; dt_inscricao; clube
+Guilherme Madalena Siqueira;  160335;  Vinculo Encerrado ;  635469;  ;  28/04/1986;  28/09/2001 00:00:00; Figueirense / SC
+Edgar Bruno da Silva;  168638;  Vinculo Encerrado ;  539820;  ;  03/01/1987;  28/09/2001 00:00:00; Sãocarlense / SP
+Paulo Roberto de Oliveira Alves;  155305;  Contrato Definitivo ;  00373371;  13/09/2001;  08/03/1982;  28/09/2001 00:00:00; União Bandeirante / PR
+Marcio Franco Bacelar;  155328;  Contrato Definitivo ;  00383623;  22/09/2001;  06/05/1979;  28/09/2001 00:00:00; Juazeiro / BA
+Paulo Roberto de Oliveira Alves;  155305;  Vinculo Encerrado ;  19387;  ;  08/03/1982;  28/09/2001 00:00:00; Iraty Sc / PR
+Glauber Nunes Assis;  152656;  Contrato Definitivo ;  00381039;  10/09/2001;  18/06/1983;  27/09/2001 00:00:00; Fabril / MG
+Alex Sandro Machado Mariano;  155262;  Contrato Definitivo ;  00381076;  10/09/2001;  10/12/1981;  27/09/2001 00:00:00; Villa Nova A.C. / MG
+Carlos Augusto da Silva Oliveira;  148295;  Contrato Definitivo ;  00379393;  14/09/2001;  24/05/1981;  27/09/2001 00:00:00; Canto do Rio Fc / RJ
+Glauber Nunes Assis;  152656;  Vinculo Encerrado ;  19308;  ;  18/06/1983;  27/09/2001 00:00:00; Fabril / MG
+Carlos Augusto Bertoldi;  155785;  Contrato Definitivo ;  ;  26/09/2001;  07/02/1985;  26/09/2001 00:00:00; Atlético / PR
+Alexandro Silva de Sousa;  139094;  Contrato Definitivo ;  ;  25/09/2001;  15/04/1983;  25/09/2001 00:00:00; Vitória S/a / 00
+Josenilson Ferreira da Penha;  152318;  Contrato Definitivo ;  00368306;  03/09/2001;  13/02/1984;  25/09/2001 00:00:00; América(inativo) / PE
+Robert Pereira dos Santos;  152295;  Contrato Definitivo ;  00384878;  15/09/2001;  27/06/1981;  25/09/2001 00:00:00; Sao Cristovao / RJ
+Sandro da Silva Mendonca;  155550;  Contrato Definitivo ;  00381654;  24/09/2001;  01/10/1983;  24/09/2001 00:00:00; Tiradentes / CE
+Adailton Jose de Souza;  137269;  Contrato Definitivo ;  00376099;  27/08/2001;  12/05/1983;  24/09/2001 00:00:00; Mirassol / SP
+Reinaldo de Morais Peres;  144301;  Contrato Emprestimo ;  00392824;  21/09/2001;  22/10/1980;  21/09/2001 00:00:00; Londrina / PR
+Eloi da Rosa Sessa;  155233;  Contrato Definitivo ;  00352073;  06/09/2001;  26/11/1982;  21/09/2001 00:00:00; Comercial / MS
+Plinio Vinicius Silva da Silva;  152752;  Contrato Definitivo ;  00374233;  15/03/2001;  01/07/1983;  21/09/2001 00:00:00; Ponta Grossa Pr / PR
+Thiago Gomes Antequeira;  155406;  Contrato Definitivo ;  ;  20/09/2001;  17/02/1982;  20/09/2001 00:00:00; Palmeiras / SP
+Michel Fernandes Bastos;  155330;  Contrato Definitivo ;  ;  19/09/2001;  02/08/1983;  19/09/2001 00:00:00; Pelotas / RS
+Lucas Roberto Bittencourt Souza;  155064;  Contrato Definitivo ;  00375142;  01/08/2001;  20/02/1984;  19/09/2001 00:00:00; Vitória / BA
+Bruno dos Santos da Conceicao;  155063;  Contrato Definitivo ;  00375135;  01/08/2001;  02/01/1984;  19/09/2001 00:00:00; Vitória / BA
+Joao Carlos de Faria;  155055;  Contrato Definitivo ;  00372114;  05/09/2001;  18/01/1982;  19/09/2001 00:00:00; Atlético / GO
+Railson Antonio Chagas Ramos;  151983;  Contrato Definitivo ;  00368694;  01/08/2001;  23/04/1978;  19/09/2001 00:00:00; Maceio Fuetbol Clube / AL
+Joao Paulo Gouveia;  149571;  Contrato Definitivo ;  00381116;  04/09/2001;  18/08/1983;  19/09/2001 00:00:00; Tanabi Ec / SP
+Rodrigo Costa Silva;  145913;  Contrato Definitivo ;  00352780;  01/09/2001;  04/01/1980;  19/09/2001 00:00:00; Boavista / RJ
+Douglas Pereira Souza;  155147;  Contrato Definitivo ;  00389956;  01/09/2001;  04/01/1983;  18/09/2001 00:00:00; Estrela do Norte / ES
+Marcondes Brum Candido;  155129;  Contrato Definitivo ;  00374926;  01/09/2001;  03/01/1981;  18/09/2001 00:00:00; América / RJ
+Everaldo da Conceicao;  155128;  Contrato Definitivo ;  00373534;  01/09/2001;  19/03/1981;  18/09/2001 00:00:00; América / RJ
+Diego Rocha Cardoso;  155103;  Contrato Definitivo ;  00385783;  27/08/2001;  15/08/1980;  18/09/2001 00:00:00; Itabaiana / SE
+Rogerio Vieira da Silva;  155089;  Contrato Definitivo ;  00365115;  08/08/2001;  13/03/1978;  18/09/2001 00:00:00; Ceilandense / DF
+Dorival Medeiros Junior;  122500;  Contrato Definitivo ;  00387322;  22/08/2001;  03/09/1974;  18/09/2001 00:00:00; Palmeiras / SP
+Paulo Cesar Borges;  149109;  Contrato Definitivo ;  00380166;  20/08/2001;  16/08/1982;  17/09/2001 00:00:00; União Esportiva de Itaberaí / GO
+Carlos Eduardo Moura da Cunha;  147113;  Contrato Definitivo ;  00392911;  14/09/2001;  19/04/1980;  14/09/2001 00:00:00; Independente Esporte Clube / 00
+Sergio Henrique Silva Guedes;  137028;  Contrato Definitivo ;  ;  14/09/2001;  08/12/1979;  14/09/2001 00:00:00; Olaria / RJ
+Rafael Luis Correia;  135016;  Contrato Definitivo ;  00376102;  01/09/2001;  18/12/1978;  14/09/2001 00:00:00; Mirassol / SP
+Haroldo Fernando da Silva;  149674;  Contrato Definitivo ;  00377286;  01/08/2001;  21/05/1981;  14/09/2001 00:00:00; Forca / SP
+Pedro Gustavo Bahia Rocha;  143796;  Contrato Definitivo ;  00344533;  26/08/2001;  09/02/1979;  14/09/2001 00:00:00; Iraty Sc / PR
+Rafael Luis Correia;  135016;  Vinculo Encerrado ;  18829;  ;  18/12/1978;  14/09/2001 00:00:00; Mirassol / SP
+Heverton Ildemar Lech;  147503;  Contrato Definitivo ;  00356755;  28/08/2001;  28/12/1981;  13/09/2001 00:00:00; Caxias Fc / SC
+Leonardo Gomes Callegari;  131927;  Contrato Definitivo ;  00375102;  01/09/2001;  06/07/1980;  13/09/2001 00:00:00; Bahia / BA
+Anderson Luis de Abreu Oliveira;  168441;  Vinculo Encerrado ;  702031;  ;  13/04/1988;  12/09/2001 00:00:00; Escola de Futebol Montserrat / RS
+Jacson Rossano Asconavieta Borba;  133432;  Contrato Definitivo ;  00378648;  24/08/2001;  03/06/1976;  12/09/2001 00:00:00; São José / RS
+Carlos Eduardo Moura da Cunha;  147113;  Contrato Definitivo ;  ;  11/09/2001;  19/04/1980;  11/09/2001 00:00:00; Confronto Temp. / 00
+Fabiano dos Santos Fernandes;  155027;  Contrato Definitivo ;  00343542;  08/08/2001;  11/03/1984;  11/09/2001 00:00:00; Londrina / PR
+Luis Gustavo Mariano;  155025;  Contrato Definitivo ;  00374098;  08/08/2001;  07/02/1984;  11/09/2001 00:00:00; Londrina / PR
+Marcio Lima Cercilier;  155024;  Contrato Definitivo ;  00374136;  08/08/2001;  28/07/1982;  11/09/2001 00:00:00; Londrina / PR
+Rafael Maeda Dias Bastos;  155021;  Contrato Definitivo ;  00374109;  08/08/2001;  23/03/1984;  11/09/2001 00:00:00; Londrina / PR
+Welker Marcal Almeida;  185126;  Vinculo Encerrado ;  570473;  10/09/2001;  24/09/1986;  10/09/2001 00:00:00; Caxias Esporte Clube / ES
+Eduardo Fernandes Dias;  154960;  Contrato Definitivo ;  00363180;  22/08/2001;  26/09/1980;  10/09/2001 00:00:00; Real Sport Arte Clube / SC
+Tadashi Hara Junior;  140332;  Contrato Definitivo ;  00374299;  16/08/2001;  13/11/1981;  10/09/2001 00:00:00; Londrina / PR
+Wilson dos Santos Pereira;  154970;  Contrato Definitivo ;  00368709;  25/07/2001;  08/11/1981;  10/09/2001 00:00:00; Maceio Fuetbol Clube / AL
+Werbete Viegas;  154964;  Contrato Definitivo ;  00366656;  06/08/2001;  07/07/1980;  10/09/2001 00:00:00; Sampaio Correa / MA
+Alex Antonio de Melo Santos;  140235;  Contrato Definitivo ;  00380938;  01/08/2001;  16/04/1983;  10/09/2001 00:00:00; Cruzeiro / MG
+Eduardo Fernandes Dias;  154960;  Vinculo Encerrado ;  19375;  ;  26/09/1980;  10/09/2001 00:00:00; Real Sport Arte Clube / SC
+Tadashi Hara Junior;  140332;  Vinculo Encerrado ;  18965;  ;  13/11/1981;  10/09/2001 00:00:00; Associacao Portuguesa Londrinense / PR
+Rubens Nelson Caldeira Junior;  119531;  Contrato Definitivo ;  352090;  29/08/2001;  20/09/1974;  05/09/2001 00:00:00; Cene / MS
+Edivan Santos Pereira;  154955;  Contrato Definitivo ;  00353335;  27/08/2001;  22/02/1980;  05/09/2001 00:00:00; Itabaiana / SE
+Gilton Almeida dos Santos;  154954;  Contrato Definitivo ;  00385780;  27/08/2001;  01/03/1981;  05/09/2001 00:00:00; Itabaiana / SE
+Rafael de Jesus Henrique;  140257;  Contrato Definitivo ;  00374296;  08/08/2001;  26/02/1982;  05/09/2001 00:00:00; Londrina / PR
+Peterson dos Santos Pecanha;  139145;  Contrato Definitivo ;  ;  04/09/2001;  11/01/1980;  04/09/2001 00:00:00; Bangu / RJ
+Wagner Venancio de Rezende;  154827;  Contrato Definitivo ;  00352083;  15/08/2001;  15/04/1983;  04/09/2001 00:00:00; Comercial / MS
+Welton Andino Matas;  154826;  Contrato Definitivo ;  00352085;  27/07/2001;  05/09/1982;  04/09/2001 00:00:00; Comercial / MS
+Luiz Magno Viana Oliveira;  154823;  Contrato Definitivo ;  00379444;  01/08/2001;  17/04/1981;  04/09/2001 00:00:00; Volta Redonda / RJ
+Marcelo Fernandes de Souza;  154822;  Contrato Definitivo ;  00379390;  13/08/2001;  28/06/1980;  04/09/2001 00:00:00; Canto do Rio Football Club / RJ
+Eduardo Tadeu Gomes de Jesus;  154818;  Contrato Definitivo ;  00379397;  14/08/2001;  28/10/1981;  04/09/2001 00:00:00; Canto do Rio Football Club / RJ
+Marinaldo Chaves Vulcao;  154817;  Contrato Definitivo ;  00379398;  03/08/2001;  25/12/1983;  04/09/2001 00:00:00; Canto do Rio Football Club / RJ
+Pedro Antonio da Silva;  154810;  Contrato Definitivo ;  00372100;  17/08/2001;  28/06/1969;  04/09/2001 00:00:00; Atlético / GO
+Fabio Cardoso do Nascimento;  123826;  Contrato Definitivo ;  00374301;  21/08/2001;  27/08/1978;  04/09/2001 00:00:00; Londrina / PR
+Edson Luis Schmitt;  135608;  Contrato Definitivo ;  00373260;  23/04/2001;  20/01/1982;  03/09/2001 00:00:00; União Bandeirante / PR
+Jose Aparecido Silva;  131301;  Contrato Definitivo ;  00373359;  10/07/2001;  06/12/1977;  03/09/2001 00:00:00; União Bandeirante / PR
+Edson Luis Schmitt;  135608;  Vinculo Encerrado ;  18844;  ;  20/01/1982;  03/09/2001 00:00:00; Esporte Clube Agua Verde / SC
+Jose Aparecido Silva;  131301;  Vinculo Encerrado ;  18757;  ;  06/12/1977;  03/09/2001 00:00:00; Metropolitano / SC
+Adriano Correia Claro;  155516;  Contrato Definitivo ;  00340590;  01/09/2001;  26/10/1984;  01/09/2001 00:00:00; Coritiba / PR
+Marco Tulio Lopes Silva;  137428;  Contrato Definitivo ;  00375403;  01/09/2001;  28/02/1981;  01/09/2001 00:00:00; Etti Jundiaí Futebol Ltda / 00
+Fabio Junio de Souza Almeida;  155190;  Contrato Definitivo ;  00348623;  01/09/2001;  29/11/1983;  01/09/2001 00:00:00; Paraná / PR
+Rodrigo Barbosa Tabata;  138062;  Contrato Emprestimo ;  ;  01/09/2001;  19/11/1980;  01/09/2001 00:00:00; Internacional Limeira / SP
+Rodrigo Barbosa Tabata;  138062;  Contrato Definitivo ;  ;  01/09/2001;  19/11/1980;  01/09/2001 00:00:00; Etti Jundiaí Futebol Ltda / 00
+Robson Severino da Silva;  155222;  Contrato Definitivo ;  ;  01/09/2001;  10/07/1983;  01/09/2001 00:00:00; Juazeiro / BA
+Cleiton Ribeiro Xavier;  154144;  Contrato Emprestimo ;  ;  01/09/2001;  23/03/1983;  01/09/2001 00:00:00; Csa / AL

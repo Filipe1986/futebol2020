@@ -1,0 +1,149 @@
+Jogador; Inscricao; Contrato; N; Inicio; Nascimento; dt_inscricao; clube
+Jogador; Inscricao; Contrato; N; Inicio; Nascimento; dt_inscricao; clube
+Livonir Ruschel;  135865;  Vinculo Encerrado ;  135865;  30/01/1998;  02/07/1978;  30/01/1998 00:00:00; Gloria / RS
+Marcos Lazaro Ribeiro;  126829;  Contrato Definitivo ;  271060;  01/01/1998;  17/06/1974;  29/01/1998 00:00:00; Ceará / CE
+Gilmar Serafim;  107923;  Contrato Definitivo ;  270979;  31/12/1997;  09/04/1969;  29/01/1998 00:00:00; Ceará / CE
+Edmilson Carlos Abel;  122696;  Contrato Definitivo ;  270131;  01/01/1998;  23/02/1974;  28/01/1998 00:00:00; Nacional Atletico Clube / SP
+Jurandir Fatori;  104913;  Contrato Definitivo ;  231797;  02/01/1998;  12/06/1971;  28/01/1998 00:00:00; Xv de Piracicaba / SP
+Marcos Lazaro Ribeiro;  126829;  Contrato Emprestimo ;  268728;  05/01/1998;  17/06/1974;  26/01/1998 00:00:00; Ferroviário / CE
+Gilmar Serafim;  107923;  Rescisão ;  247847;  ;  09/04/1969;  23/01/1998 00:00:00; Moto Club / MA
+Vagner Carmo Mancini;  95266;  Contrato Definitivo ;  266565;  02/01/1998;  24/10/1966;  22/01/1998 00:00:00; Aracatuba / SP
+Antonio Augusto Ribeiro Reis Junior;  121283;  Contrato Definitivo ;  ;  21/01/1998;  30/01/1975;  21/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Gabriel Lima;  130067;  Contrato Definitivo ;  269355;  01/01/1998;  13/06/1978;  16/01/1998 00:00:00; Fluminense / RJ
+Orestes Junior Alves;  138312;  Vinculo Encerrado ;  736714;  ;  24/03/1981;  16/01/1998 00:00:00; Confronto Temp. / 00
+Magno Alves de Araujo;  120743;  Rescisão ;  256737;  ;  13/01/1976;  15/01/1998 00:00:00; Criciúma / SC
+Rodrigo Grahl;  126844;  Contrato Emprestimo ;  ;  15/01/1998;  21/02/1977;  15/01/1998 00:00:00; Juventude / RS
+Luis Fabio de Freitas;  124422;  Contrato Definitivo ;  256469;  12/01/1998;  08/03/1975;  12/01/1998 00:00:00; Blumenau Ec / SC
+Valni Barros Lopes Junior;  121886;  Contrato Definitivo ;  259429;  08/01/1998;  12/07/1974;  12/01/1998 00:00:00; Tiradentes / CE
+Jeovanio Rocha do Nascimento;  126193;  Contrato Definitivo ;  2121548787;  10/01/1998;  11/11/1977;  10/01/1998 00:00:00; Atlético / GO
+Gilberto da Silva Melo;  118032;  Contrato Emprestimo ;  9856986523;  07/01/1998;  25/04/1976;  07/01/1998 00:00:00; Cruzeiro / MG
+Edson Mendes dos Reis;  129961;  Contrato Emprestimo ;  256468;  22/12/1997;  17/07/1977;  07/01/1998 00:00:00; Vitória / BA
+Jose Gerardo Moreira Rocha Junior;  133081;  Contrato Definitivo ;  259411;  15/12/1997;  19/11/1977;  05/01/1998 00:00:00; Tiradentes / CE
+Romulo Marques Macedo;  141467;  Vinculo Encerrado ;  484136;  ;  03/04/1980;  02/01/1998 00:00:00; Flamengo / RJ
+Hugo Henrique Assis do Nascimento;  138056;  Vinculo Encerrado ;  484079;  ;  27/10/1980;  02/01/1998 00:00:00; Fluminense / RJ
+Paulo Sergio Betanin;  165462;  Vinculo Encerrado ;  746551;  01/01/1998;  10/01/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Leandro Periera dos Santos;  182991;  Contrato Definitivo ;  ;  01/01/1998;  07/09/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Thiago Rodrigo dos Santos;  298600;  Contrato Definitivo ;  ;  01/01/1998;  24/06/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Maicosuel Reginaldo de Matos;  161269;  Vinculo Encerrado ;  738351;  01/01/1998;  16/06/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Antonio Thomaz Santos de Barros;  170011;  Contrato Definitivo ;  ;  01/01/1998;  02/05/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Washigton Ludugerio Assis;  169482;  Contrato Definitivo ;  ;  01/01/1998;  23/02/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Marcelo Vitor Ferreira da Costa;  171753;  Contrato Definitivo ;  ;  01/01/1998;  12/06/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Alan Girotto Mota;  182534;  Contrato Definitivo ;  ;  01/01/1998;  12/09/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Sandro Jose Ferreira da Silva;  163071;  Vinculo Encerrado ;  729000;  ;  19/03/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Adailson Pereira Coelho;  157751;  Contrato Definitivo ;  ;  01/01/1998;  28/03/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Anderson Raimundo da Silva;  189488;  Contrato Definitivo ;  ;  01/01/1998;  26/09/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Yusuke Sudo;  445690;  Contrato Definitivo ;  ;  01/01/1998;  07/05/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Francisco Jailson de Souza;  161318;  Contrato Definitivo ;  ;  01/01/1998;  29/11/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Thiago Maier Santos;  170369;  Vinculo Encerrado ;  721281;  ;  31/08/1986;  01/01/1998 00:00:00; Paraná / PR
+Robert Mario Flores Bistolfi;  459846;  Contrato Definitivo ;  ;  01/01/1998;  13/05/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Luis Ricardo Silva Umbelino;  158204;  Vinculo Encerrado ;  719313;  ;  21/01/1984;  01/01/1998 00:00:00; Confronto Temp. / 00
+Rodrigo Defendi;  159189;  Contrato Definitivo ;  ;  01/01/1998;  17/06/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Rafael Rodrigues da Silva;  161860;  Contrato Definitivo ;  ;  01/01/1998;  01/02/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Rafael Xavier Zacarias;  182986;  Contrato Definitivo ;  ;  01/01/1998;  02/06/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Rafael Toro Ferreira Francisco;  157287;  Contrato Definitivo ;  ;  01/01/1998;  13/04/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Edson dos Santos Figueiredo;  174592;  Contrato Definitivo ;  ;  01/01/1998;  20/04/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Marco Aurelio Iubel;  161657;  Contrato Definitivo ;  ;  01/01/1998;  07/08/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Paulo Jose de Oliveira;  168381;  Contrato Definitivo ;  ;  01/01/1998;  09/03/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Everson Alan de Lima;  175129;  Contrato Definitivo ;  ;  01/01/1998;  01/07/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Eldis Fernando Damasio;  143814;  Contrato Definitivo ;  ;  01/01/1998;  13/01/1981;  01/01/1998 00:00:00; Confronto Temp. / 00
+Marcio Teruel;  149783;  Contrato Definitivo ;  ;  01/01/1998;  11/03/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Bruno Martins de Jesus;  174426;  Contrato Definitivo ;  ;  01/01/1998;  21/07/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Juliano Mineiro Fernandes;  161623;  Contrato Definitivo ;  ;  01/01/1998;  14/02/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Rafael Diego de Souza;  167167;  Contrato Definitivo ;  ;  01/01/1998;  08/07/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Rafael Leandro Magalhaes;  179449;  Contrato Definitivo ;  ;  01/01/1998;  06/02/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Maycon Carvalho Inez;  175439;  Contrato Definitivo ;  ;  01/01/1998;  21/07/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Andre Luis Neitzke;  167920;  Contrato Definitivo ;  ;  01/01/1998;  24/11/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Henrique Adriano Buss;  161301;  Vinculo Encerrado ;  690825;  ;  14/10/1986;  01/01/1998 00:00:00; Soc.benef.recr.colombo Futebol Clube / PR
+Cleber Barbosa Viana;  359777;  Contrato Definitivo ;  ;  01/01/1998;  22/06/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Jairo Luis Blumer;  169751;  Contrato Definitivo ;  ;  01/01/1998;  31/12/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Carlos Magno dos Santos Barbosa;  164892;  Contrato Definitivo ;  ;  01/01/1998;  29/01/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Roniere Jose da Silva Filho;  175957;  Contrato Definitivo ;  ;  01/01/1998;  23/04/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Bruno Coutinho Martins;  164061;  Contrato Definitivo ;  ;  01/01/1998;  21/06/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Jeferson Miguel da Silva;  169967;  Contrato Definitivo ;  ;  01/01/1998;  15/01/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Jeferson Gusmao Maciel;  164888;  Contrato Definitivo ;  ;  01/01/1998;  20/01/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Fabio Neves Florentino;  175226;  Contrato Definitivo ;  ;  01/01/1998;  04/10/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+William Thiego de Jesus;  169902;  Contrato Definitivo ;  ;  01/01/1998;  22/07/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Rodrigo Santos Vieira;  327744;  Contrato Definitivo ;  ;  01/01/1998;  07/01/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Diego Alberto Morales;  445819;  Contrato Definitivo ;  ;  01/01/1998;  29/11/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Ricardo Ferreira da Silva;  187368;  Contrato Definitivo ;  ;  01/01/1998;  31/12/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Wanderley de Jesus Sousa;  166491;  Contrato Definitivo ;  00443629;  01/01/1998;  02/08/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Dario Bottinelli;  371066;  Contrato Definitivo ;  ;  01/01/1998;  26/12/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Emerson Reis Luiz;  163862;  Contrato Definitivo ;  ;  01/01/1998;  04/01/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Antonio de Moura Carvalho;  176981;  Contrato Definitivo ;  ;  01/01/1998;  29/05/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Robson Alex Santos;  182392;  Contrato Definitivo ;  ;  01/01/1998;  20/05/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Ricardo Martins de Araujo;  167600;  Contrato Definitivo ;  ;  01/01/1998;  20/07/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Marcio Gonzaga de Azevedo;  167769;  Contrato Definitivo ;  ;  01/01/1998;  05/02/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Evanildo Fernandes Gomes;  298593;  Contrato Definitivo ;  ;  01/01/1998;  01/05/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Fernando Augusto Azevedo Pedreira;  178924;  Contrato Definitivo ;  ;  01/01/1998;  14/11/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Douglas Ferreira;  161608;  Contrato Definitivo ;  ;  01/01/1998;  18/05/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Klayton da Silva Santos;  169807;  Contrato Definitivo ;  ;  01/01/1998;  16/09/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Gabriel Apolo Mendonca Rosa;  189858;  Contrato Definitivo ;  ;  01/01/1998;  28/07/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Diouzer da Cruz dos Santos;  174402;  Contrato Definitivo ;  ;  01/01/1998;  26/09/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Guilherme Madalena Siqueira;  160335;  Contrato Definitivo ;  ;  01/01/1998;  28/04/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Julio Cesar Godinho Catole;  177469;  Contrato Definitivo ;  ;  01/01/1998;  05/08/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Samuel da Silva Melo Junior;  158727;  Contrato Definitivo ;  ;  01/01/1998;  04/04/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Bruno Oliveira Moreno;  184444;  Contrato Definitivo ;  ;  01/01/1998;  23/04/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Jandson dos Santos;  164028;  Contrato Definitivo ;  ;  01/01/1998;  16/09/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Gustavo dos Santos Correia;  170122;  Contrato Definitivo ;  ;  01/01/1998;  11/08/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Antonio Augusto Ferreira Pinto Junior;  157296;  Contrato Definitivo ;  ;  01/01/1998;  28/02/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Caio Cesar Alves dos Santos;  160481;  Contrato Definitivo ;  ;  01/01/1998;  29/05/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Anderson Francisco da Cunha;  186816;  Contrato Definitivo ;  ;  01/01/1998;  15/04/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Gledson Pereira das Neves;  173382;  Contrato Definitivo ;  ;  01/01/1998;  29/03/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Vanderson da Silva Souza;  161683;  Contrato Definitivo ;  ;  01/01/1998;  24/08/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Tiago Souza da Silveira;  169986;  Contrato Definitivo ;  ;  01/01/1998;  02/08/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Roger Roberto dos Santos;  172933;  Contrato Definitivo ;  ;  01/01/1998;  30/03/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Paulo Cesar da Silva Argolo;  153940;  Contrato Definitivo ;  ;  01/01/1998;  27/03/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Rafael Santos Bergamasco;  160346;  Contrato Definitivo ;  ;  01/01/1998;  17/01/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+William Rocha Alves;  165934;  Contrato Definitivo ;  ;  01/01/1998;  07/05/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Lucas Piasentin;  169284;  Contrato Definitivo ;  ;  01/01/1998;  17/03/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Rodrigo Roberto de Souza;  175468;  Contrato Definitivo ;  ;  01/01/1998;  04/02/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Juan Jose Arraya;  431476;  Contrato Definitivo ;  ;  01/01/1998;  21/04/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Bruno da Silva Lopes;  168956;  Vinculo Encerrado ;  615692;  ;  19/08/1986;  01/01/1998 00:00:00; Vila Hauer E. C. / PR
+Elton Charles Figueiredo da Silva;  164900;  Contrato Definitivo ;  ;  01/01/1998;  12/02/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Fabricio Lopes Alcantara;  147214;  Contrato Definitivo ;  ;  01/01/1998;  18/05/1984;  01/01/1998 00:00:00; Confronto Temp. / 00
+Fernando Gomes de Jesus;  161620;  Vinculo Encerrado ;  611992;  ;  12/05/1986;  01/01/1998 00:00:00; Grande Rio Brescia Clube Ltda / RJ
+Diego Neves de Jesus;  179411;  Contrato Definitivo ;  ;  01/01/1998;  13/06/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Pedro Henrique dos Santos Calcado;  172879;  Contrato Definitivo ;  ;  01/01/1998;  04/08/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Alexandre Luiz Fernandes;  159223;  Contrato Definitivo ;  ;  01/01/1998;  21/01/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Hernane Vidal de Souza;  186467;  Contrato Definitivo ;  ;  01/01/1998;  08/04/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Robson de Sousa Vasconcelos Goes;  176788;  Contrato Definitivo ;  ;  01/01/1998;  20/01/1986;  01/01/1998 00:00:00; Confronto Temp. / 00
+Rodrigo Pereira de Lima;  180179;  Contrato Definitivo ;  ;  01/01/1998;  18/11/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Allan Brazil de Souza E Silva;  174401;  Contrato Definitivo ;  ;  01/01/1998;  23/07/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Jose Kleberson Pereira;  139591;  Vinculo Encerrado ;  579004;  ;  19/06/1979;  01/01/1998 00:00:00; Pstc / PR
+Lucio Flavio da Silva Oliva;  166180;  Contrato Definitivo ;  ;  01/01/1998;  29/08/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Bruno Martins Teles;  168065;  Contrato Definitivo ;  ;  01/01/1998;  01/05/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Rodrigo de Souza Silva;  182190;  Contrato Definitivo ;  ;  01/01/1998;  12/06/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Dinelson dos Santos Lima;  161636;  Contrato Definitivo ;  ;  01/01/1998;  04/02/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Marcos Rogerio Ricci Lopes;  165065;  Contrato Definitivo ;  ;  01/01/1998;  14/02/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Marcio de Souza Gregorio Junior;  168845;  Contrato Definitivo ;  ;  01/01/1998;  14/05/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Hugo Guimaraes Silva Santos Almeida;  162026;  Contrato Definitivo ;  ;  01/01/1998;  06/01/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Diogo Antunes de Oliveira;  172165;  Contrato Definitivo ;  ;  01/01/1998;  29/10/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Robson da Silva;  166463;  Contrato Definitivo ;  ;  01/01/1998;  25/01/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Willian Fernando da Silva;  164121;  Contrato Definitivo ;  ;  01/01/1998;  20/11/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Leandro Mauri;  341086;  Contrato Definitivo ;  ;  01/01/2000;  04/03/1988;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Ignacio Canuto;  402272;  Contrato Definitivo ;  ;  01/01/1998;  20/02/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Emerson da Conceicao;  166370;  Contrato Definitivo ;  ;  01/01/1998;  23/02/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Francisco Wanderson do Carmo Carneiro;  168497;  Contrato Definitivo ;  ;  01/01/1998;  18/02/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Alexandre D Acol Joaquim;  158920;  Contrato Definitivo ;  ;  01/01/1998;  18/07/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Diego Angelo de Oliveira;  175918;  Contrato Definitivo ;  ;  01/01/1998;  12/02/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Leomar Francisco Rodrigues;  171881;  Contrato Definitivo ;  ;  01/01/1998;  12/06/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Renan Fernandes Garcia;  172308;  Contrato Definitivo ;  ;  01/01/1998;  19/06/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Samuel Firmino de Jesus;  168009;  Contrato Definitivo ;  ;  01/01/1998;  07/04/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Alex Sandro Mendonca dos Santos;  183777;  Contrato Definitivo ;  ;  01/01/1998;  04/08/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Eduardo Goncalves de Oliveira;  137709;  Contrato Definitivo ;  ;  01/01/1998;  30/11/1981;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Willians Domingos Fernandes;  182246;  Contrato Definitivo ;  ;  01/01/1998;  29/01/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Everton Leandro dos Santos Pinto;  165064;  Contrato Definitivo ;  ;  01/01/1998;  14/10/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Paulo Marcos de Jesus Ribeiro;  293393;  Contrato Definitivo ;  ;  01/01/1998;  25/02/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Leandro Castan da Silva;  164170;  Contrato Definitivo ;  ;  01/01/1998;  05/11/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Bruno Cesar Correa;  175422;  Contrato Definitivo ;  ;  01/01/1998;  22/03/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Marco Antonio de Mattos Filho;  159716;  Vinculo Encerrado ;  530072;  ;  03/07/1986;  01/01/1998 00:00:00; Gaúcho / RS
+Willian Gomes de Siqueira;  166061;  Contrato Definitivo ;  ;  01/01/1998;  19/11/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Ederson Honorato Campos;  156351;  Contrato Definitivo ;  ;  01/01/1998;  13/01/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Givanildo Vieira de Sousa;  163056;  Contrato Definitivo ;  ;  01/01/1998;  25/07/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Welker Marcal Almeida;  185126;  Contrato Definitivo ;  ;  01/01/1998;  24/09/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Jumar Jose da Costa Junior;  182081;  Contrato Definitivo ;  ;  01/01/1998;  28/04/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Danilo Cirino de Oliveira;  178956;  Contrato Definitivo ;  ;  01/01/1998;  11/11/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Vagner da Silva;  170370;  Contrato Definitivo ;  ;  01/01/1998;  06/06/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Mariano Ferreira Filho;  170144;  Contrato Definitivo ;  ;  01/01/1998;  23/06/1986;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
+Jefferson da Silva Nascimento;  169827;  Vinculo Encerrado ;  484740;  ;  29/06/1986;  01/01/1998 00:00:00; Coritiba / PR
+Fernando Menegazzo;  137276;  Contrato Definitivo ;  ;  01/01/1998;  03/05/1981;  01/01/1998 00:00:00; Cbf - Atleta Sem Clube / 00
